@@ -1,0 +1,28 @@
+﻿============================================
+This Update for Program
+Changed to this Update Number 9
+July, 04, 2022 At 3:51:50 pm
+============================================
+============================================
+Changed Files = 12
+============================================
+C:\Program Files\PopUpMenu_PUM\Booster.ahk
+C:\Program Files\PopUpMenu_PUM\f_101.ahk
+C:\Program Files\PopUpMenu_PUM\Gui_Language.ahk
+C:\Program Files\PopUpMenu_PUM\Hotkey_gui.ahk
+C:\Program Files\PopUpMenu_PUM\PluginSendKey.ahk
+C:\Program Files\PopUpMenu_PUM\PopUpMenu.ahk
+C:\Program Files\PopUpMenu_PUM\Pum_Run.ahk
+C:\Program Files\PopUpMenu_PUM\SysConfig.ahk
+C:\Program Files\PopUpMenu_PUM\SysLoad.ahk
+C:\Program Files\PopUpMenu_PUM\SysTray.ahk
+C:\Program Files\PopUpMenu_PUM\_S2_H.ahk
+C:\Program Files\PopUpMenu_PUM\_S3_S.ahk
+============================================
+
+============================================
+New Files = 1
+============================================
+C:\Program Files\PopUpMenu_PUM\HasAdminRights.ahk
+============================================
+

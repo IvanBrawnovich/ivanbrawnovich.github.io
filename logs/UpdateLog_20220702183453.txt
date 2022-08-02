@@ -1,0 +1,21 @@
+﻿============================================
+This Update for Program
+Changed to this Update Number 12
+July, 02, 2022 At 6:34:53 pm
+============================================
+============================================
+Changed Files = 11
+============================================
+C:\Program Files\PopUpMenu_PUM\Booster.ahk
+C:\Program Files\PopUpMenu_PUM\SysTray.ahk
+C:\Program Files\PopUpMenu_PUM\Data\Process Lasso\xsandbox.bin
+C:\Program Files\PopUpMenu_PUM\Data\Process Lasso\local\meta\@PROGRAMFILES@\Process Lasso\pl_rsrc_english.dll.__meta__
+C:\Program Files\PopUpMenu_PUM\Data\Process Lasso\local\meta\@PROGRAMFILES@\Process Lasso\ProcessGovernor.exe.__meta__
+C:\Program Files\PopUpMenu_PUM\Data\Process Lasso\local\meta\@PROGRAMFILES@\Process Lasso\srvstub.exe.__meta__
+C:\Program Files\PopUpMenu_PUM\Data\Process Lasso\local\stubexe\0x082FF37EA5C42213\processgovernor.exe
+C:\Program Files\PopUpMenu_PUM\Data\Process Lasso\local\stubexe\0x082FF37EA5C42213\processgovernor.exe.manifest
+C:\Program Files\PopUpMenu_PUM\Data\Process Lasso\local\stubexe\0x879B8060EEB4353D\srvstub.exe
+C:\Program Files\PopUpMenu_PUM\Data\Process Lasso\local\stubexe\0x879B8060EEB4353D\srvstub.exe.manifest
+C:\Program Files\PopUpMenu_PUM\Data\Process Lasso\roaming\xregistry.bin
+============================================
+

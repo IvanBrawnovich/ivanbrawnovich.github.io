@@ -1,0 +1,25 @@
+﻿============================================
+This Update for Program
+Changed to this Update Number 8
+June, 30, 2022 At 6:46:23 pm
+============================================
+============================================
+Changed Files = 3
+============================================
+C:\Program Files\PopUpMenu_PUM\Pum_Create.ahk
+C:\Program Files\PopUpMenu_PUM\SysLoad.ahk
+C:\Program Files\PopUpMenu_PUM\SysTray.ahk
+============================================
+
+============================================
+New Files = 7
+============================================
+C:\Program Files\PopUpMenu_PUM\Booster.ahk
+C:\Program Files\PopUpMenu_PUM\Pum_Kill.ahk
+C:\Program Files\PopUpMenu_PUM\Shortcut_ConfigArray.ahk
+C:\Program Files\PopUpMenu_PUM\Shortcut_RunArray.ahk
+C:\Program Files\PopUpMenu_PUM\booster\PopUpMenu_Booster.exe
+C:\Program Files\PopUpMenu_PUM\booster\(_ini_)\ProcessLasso.exe
+C:\Program Files\PopUpMenu_PUM\booster\(_ini_)\prolasso.ini
+============================================
+

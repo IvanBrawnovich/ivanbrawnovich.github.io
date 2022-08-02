@@ -1,0 +1,16 @@
+﻿============================================
+This Update for Program
+Changed to this Update Number 12
+July, 22, 2022 At 11:41:33 am
+============================================
+============================================
+Changed Files = 6
+============================================
+C:\Program Files\PopUpMenu_PUM\f_081.ahk
+C:\Program Files\PopUpMenu_PUM\f_083.ahk
+C:\Program Files\PopUpMenu_PUM\f_101.ahk
+C:\Program Files\PopUpMenu_PUM\Image_PathFolderOrName.ahk
+C:\Program Files\PopUpMenu_PUM\Shortcut_Run.ahk
+C:\Program Files\PopUpMenu_PUM\SysTray.ahk
+============================================
+

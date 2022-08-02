@@ -1,0 +1,31 @@
+﻿============================================
+This Update for Program
+Changed to this Update Number 1
+June, 11, 2022 At 4:01:51 pm
+============================================
+============================================
+Changed Files = 15
+============================================
+C:\Program Files\PopUpMenu_PUM\Config_SelectFileFolder.ahk
+C:\Program Files\PopUpMenu_PUM\PluginSendKey.ahk
+C:\Program Files\PopUpMenu_PUM\PopUpMenu.ahk
+C:\Program Files\PopUpMenu_PUM\Pum_Run.ahk
+C:\Program Files\PopUpMenu_PUM\Script_Close.ahk
+C:\Program Files\PopUpMenu_PUM\Select_FileFolder.ahk
+C:\Program Files\PopUpMenu_PUM\Shortcut_CatPaw.ahk
+C:\Program Files\PopUpMenu_PUM\Shortcut_Config.ahk
+C:\Program Files\PopUpMenu_PUM\Shortcut_Default.ahk
+C:\Program Files\PopUpMenu_PUM\Splash_601.ahk
+C:\Program Files\PopUpMenu_PUM\SysConfig.ahk
+C:\Program Files\PopUpMenu_PUM\SysLoad.ahk
+C:\Program Files\PopUpMenu_PUM\SysTray.ahk
+C:\Program Files\PopUpMenu_PUM\VarIsType.ahk
+C:\Program Files\PopUpMenu_PUM\Wait_FileFolder.ahk
+============================================
+
+============================================
+New Files = 1
+============================================
+C:\Program Files\PopUpMenu_PUM\Clipboard_Watch.ahk
+============================================
+

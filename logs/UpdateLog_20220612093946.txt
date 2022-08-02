@@ -1,0 +1,12 @@
+﻿============================================
+This Update for Program
+Changed to this Update Number 2
+June, 12, 2022 At 09:39:46 am
+============================================
+============================================
+Changed Files = 2
+============================================
+C:\Program Files\PopUpMenu_PUM\Clipboard_Watch.ahk
+C:\Program Files\PopUpMenu_PUM\SysTray.ahk
+============================================
+

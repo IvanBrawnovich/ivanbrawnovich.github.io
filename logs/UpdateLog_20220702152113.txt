@@ -1,0 +1,31 @@
+﻿============================================
+This Update for Program
+Changed to this Update Number 11
+July, 02, 2022 At 3:21:13 pm
+============================================
+============================================
+Changed Files = 3
+============================================
+C:\Program Files\PopUpMenu_PUM\Booster.ahk
+C:\Program Files\PopUpMenu_PUM\SysTray.ahk
+C:\Program Files\PopUpMenu_PUM\booster\(_Installer_)\prolasso.ini
+============================================
+
+============================================
+New Files = 13
+============================================
+C:\Program Files\PopUpMenu_PUM\BoosterInstaller.exe
+C:\Program Files\PopUpMenu_PUM\Data\Process Lasso\xsandbox.bin
+C:\Program Files\PopUpMenu_PUM\Data\Process Lasso\local\meta\@PROGRAMFILES@\Process Lasso\pl_rsrc_english.dll.__meta__
+C:\Program Files\PopUpMenu_PUM\Data\Process Lasso\local\meta\@PROGRAMFILES@\Process Lasso\ProcessGovernor.exe.__meta__
+C:\Program Files\PopUpMenu_PUM\Data\Process Lasso\local\meta\@PROGRAMFILES@\Process Lasso\srvstub.exe.__meta__
+C:\Program Files\PopUpMenu_PUM\Data\Process Lasso\local\modified\@PROGRAMFILES@\Process Lasso\pl_rsrc_english.dll
+C:\Program Files\PopUpMenu_PUM\Data\Process Lasso\local\modified\@PROGRAMFILES@\Process Lasso\ProcessGovernor.exe
+C:\Program Files\PopUpMenu_PUM\Data\Process Lasso\local\modified\@PROGRAMFILES@\Process Lasso\srvstub.exe
+C:\Program Files\PopUpMenu_PUM\Data\Process Lasso\local\stubexe\0x082FF37EA5C42213\processgovernor.exe
+C:\Program Files\PopUpMenu_PUM\Data\Process Lasso\local\stubexe\0x082FF37EA5C42213\processgovernor.exe.manifest
+C:\Program Files\PopUpMenu_PUM\Data\Process Lasso\local\stubexe\0x879B8060EEB4353D\srvstub.exe
+C:\Program Files\PopUpMenu_PUM\Data\Process Lasso\local\stubexe\0x879B8060EEB4353D\srvstub.exe.manifest
+C:\Program Files\PopUpMenu_PUM\Data\Process Lasso\roaming\xregistry.bin
+============================================
+

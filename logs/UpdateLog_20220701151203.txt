@@ -1,0 +1,50 @@
+﻿============================================
+This Update for Program
+Changed to this Update Number 8
+July, 01, 2022 At 3:12:03 pm
+============================================
+============================================
+Changed Files = 25
+============================================
+C:\Program Files\PopUpMenu_PUM\Pum_Create.ahk
+C:\Program Files\PopUpMenu_PUM\SysLoad.ahk
+C:\Program Files\PopUpMenu_PUM\SysTray.ahk
+C:\Program Files\PopUpMenu_PUM\_S2_H.ahk
+C:\Program Files\PopUpMenu_PUM\_S3_S.ahk
+C:\Program Files\PopUpMenu_PUM\image\gui\(132)_1_de.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(132)_1_en.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(132)_1_es.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(132)_1_fr.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(132)_1_it.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(132)_1_pl.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(132)_1_pt.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(132)_1_ru.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(132)_1_sv.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(132)_1_tr.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(132)_2_de.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(132)_2_en.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(132)_2_es.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(132)_2_fr.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(132)_2_it.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(132)_2_pl.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(132)_2_pt.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(132)_2_ru.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(132)_2_sv.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(132)_2_tr.png
+============================================
+
+============================================
+New Files = 10
+============================================
+C:\Program Files\PopUpMenu_PUM\Booster.ahk
+C:\Program Files\PopUpMenu_PUM\Pum_Kill.ahk
+C:\Program Files\PopUpMenu_PUM\Shortcut_ConfigArray.ahk
+C:\Program Files\PopUpMenu_PUM\Shortcut_RunArray.ahk
+C:\Program Files\PopUpMenu_PUM\booster\(_Installer_)\BoosterInstaller.exe
+C:\Program Files\PopUpMenu_PUM\booster\(_Installer_)\pl_rsrc_english.dll
+C:\Program Files\PopUpMenu_PUM\booster\(_Installer_)\ProcessGovernor.exe
+C:\Program Files\PopUpMenu_PUM\booster\(_Installer_)\ProcessLasso.exe
+C:\Program Files\PopUpMenu_PUM\booster\(_Installer_)\prolasso.ini
+C:\Program Files\PopUpMenu_PUM\image\ico\PopUpMenu_(Process_Lasso).ico
+============================================
+

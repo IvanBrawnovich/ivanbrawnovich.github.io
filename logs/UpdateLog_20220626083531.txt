@@ -1,0 +1,12 @@
+﻿============================================
+This Update for Plugin
+Changed to this Update Number 2
+June, 26, 2022 At 08:35:31 am
+============================================
+============================================
+Changed Files = 2
+============================================
+C:\Program Files\PopUpMenu_PUM\\menu\mnu\photoshop\de\menu_photoshop_de.txt
+C:\Program Files\PopUpMenu_PUM\\menu\mnu\photoshop\de\number_photoshop_de.txt
+============================================
+

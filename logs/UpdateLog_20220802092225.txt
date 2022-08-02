@@ -1,0 +1,24 @@
+﻿============================================
+This Update for Program
+Changed to this Update Number 13
+August, 02, 2022 At 09:22:25 am
+============================================
+============================================
+Changed Files = 14
+============================================
+C:\Program Files\PopUpMenu_PUM\PluginSendKey.ahk
+C:\Program Files\PopUpMenu_PUM\PopUpMenu.ahk
+C:\Program Files\PopUpMenu_PUM\SysLoad.ahk
+C:\Program Files\PopUpMenu_PUM\SysTray.ahk
+C:\Program Files\PopUpMenu_PUM\image\gui\(101)_de.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(101)_en.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(101)_es.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(101)_fr.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(101)_it.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(101)_pl.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(101)_pt.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(101)_ru.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(101)_sv.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(101)_tr.png
+============================================
+

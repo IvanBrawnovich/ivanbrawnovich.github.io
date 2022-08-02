@@ -1,0 +1,12 @@
+﻿============================================
+This Update for Program
+Changed to this Update Number 9
+July, 01, 2022 At 4:28:41 pm
+============================================
+============================================
+Changed Files = 2
+============================================
+C:\Program Files\PopUpMenu_PUM\Booster.ahk
+C:\Program Files\PopUpMenu_PUM\SysTray.ahk
+============================================
+

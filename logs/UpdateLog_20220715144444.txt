@@ -1,0 +1,11 @@
+﻿============================================
+This Update for Plugin
+Changed to this Update Number 3
+July, 15, 2022 At 2:44:44 pm
+============================================
+============================================
+Changed Files = 1
+============================================
+C:\Program Files\PopUpMenu_PUM\\menu\mnu\photoshop\de\Keyboard Shortcuts.psp
+============================================
+

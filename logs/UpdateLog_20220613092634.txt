@@ -1,0 +1,14 @@
+﻿============================================
+This Update for Program
+Changed to this Update Number 3
+June, 13, 2022 At 09:26:34 am
+============================================
+============================================
+Changed Files = 4
+============================================
+C:\Program Files\PopUpMenu_PUM\Config_SelectFileFolder.ahk
+C:\Program Files\PopUpMenu_PUM\PluginSendKey.ahk
+C:\Program Files\PopUpMenu_PUM\Select_FileFolder.ahk
+C:\Program Files\PopUpMenu_PUM\SysTray.ahk
+============================================
+
