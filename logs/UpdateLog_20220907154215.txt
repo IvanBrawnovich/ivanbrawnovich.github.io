@@ -1,0 +1,116 @@
+﻿============================================
+This Update for Program
+Changed to this Update Number 14
+September, 07, 2022 At 3:42:15 pm
+============================================
+============================================
+Changed Files = 14
+============================================
+C:\Program Files\PopUpMenu_PUM\Array_Subtract.ahk
+C:\Program Files\PopUpMenu_PUM\PluginSendKey.ahk
+C:\Program Files\PopUpMenu_PUM\SysTray.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\cpl_number.txt
+C:\Program Files\PopUpMenu_PUM\menu\cpl\menu\menu_de.txt
+C:\Program Files\PopUpMenu_PUM\menu\cpl\menu\menu_en.txt
+C:\Program Files\PopUpMenu_PUM\menu\cpl\menu\menu_es.txt
+C:\Program Files\PopUpMenu_PUM\menu\cpl\menu\menu_fr.txt
+C:\Program Files\PopUpMenu_PUM\menu\cpl\menu\menu_it.txt
+C:\Program Files\PopUpMenu_PUM\menu\cpl\menu\menu_pl.txt
+C:\Program Files\PopUpMenu_PUM\menu\cpl\menu\menu_pt.txt
+C:\Program Files\PopUpMenu_PUM\menu\cpl\menu\menu_ru.txt
+C:\Program Files\PopUpMenu_PUM\menu\cpl\menu\menu_sv.txt
+C:\Program Files\PopUpMenu_PUM\menu\cpl\menu\menu_tr.txt
+============================================
+
+============================================
+New Files = 87
+============================================
+C:\Program Files\PopUpMenu_PUM\SetWindowPosition.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0300.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0301.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0302.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0303.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0304.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0305.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0306.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0307.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0308.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0309.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0310.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0311.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0312.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0313.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0314.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0315.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0316.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0317.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0318.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0319.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0320.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0321.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0322.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0323.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0324.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0325.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0326.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0327.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0328.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0329.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0330.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0331.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0332.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0333.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0334.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0335.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0336.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0337.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0338.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0339.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0340.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0341.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0342.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\ico\Com_0300.ico
+C:\Program Files\PopUpMenu_PUM\menu\cpl\ico\Com_0301.ico
+C:\Program Files\PopUpMenu_PUM\menu\cpl\ico\Com_0302.ico
+C:\Program Files\PopUpMenu_PUM\menu\cpl\ico\Com_0303.ico
+C:\Program Files\PopUpMenu_PUM\menu\cpl\ico\Com_0304.ico
+C:\Program Files\PopUpMenu_PUM\menu\cpl\ico\Com_0305.ico
+C:\Program Files\PopUpMenu_PUM\menu\cpl\ico\Com_0306.ico
+C:\Program Files\PopUpMenu_PUM\menu\cpl\ico\Com_0307.ico
+C:\Program Files\PopUpMenu_PUM\menu\cpl\ico\Com_0308.ico
+C:\Program Files\PopUpMenu_PUM\menu\cpl\ico\Com_0309.ico
+C:\Program Files\PopUpMenu_PUM\menu\cpl\ico\Com_0310.ico
+C:\Program Files\PopUpMenu_PUM\menu\cpl\ico\Com_0311.ico
+C:\Program Files\PopUpMenu_PUM\menu\cpl\ico\Com_0312.ico
+C:\Program Files\PopUpMenu_PUM\menu\cpl\ico\Com_0313.ico
+C:\Program Files\PopUpMenu_PUM\menu\cpl\ico\Com_0314.ico
+C:\Program Files\PopUpMenu_PUM\menu\cpl\ico\Com_0315.ico
+C:\Program Files\PopUpMenu_PUM\menu\cpl\ico\Com_0316.ico
+C:\Program Files\PopUpMenu_PUM\menu\cpl\ico\Com_0317.ico
+C:\Program Files\PopUpMenu_PUM\menu\cpl\ico\Com_0318.ico
+C:\Program Files\PopUpMenu_PUM\menu\cpl\ico\Com_0319.ico
+C:\Program Files\PopUpMenu_PUM\menu\cpl\ico\Com_0320.ico
+C:\Program Files\PopUpMenu_PUM\menu\cpl\ico\Com_0321.ico
+C:\Program Files\PopUpMenu_PUM\menu\cpl\ico\Com_0322.ico
+C:\Program Files\PopUpMenu_PUM\menu\cpl\ico\Com_0323.ico
+C:\Program Files\PopUpMenu_PUM\menu\cpl\ico\Com_0324.ico
+C:\Program Files\PopUpMenu_PUM\menu\cpl\ico\Com_0325.ico
+C:\Program Files\PopUpMenu_PUM\menu\cpl\ico\Com_0326.ico
+C:\Program Files\PopUpMenu_PUM\menu\cpl\ico\Com_0327.ico
+C:\Program Files\PopUpMenu_PUM\menu\cpl\ico\Com_0328.ico
+C:\Program Files\PopUpMenu_PUM\menu\cpl\ico\Com_0329.ico
+C:\Program Files\PopUpMenu_PUM\menu\cpl\ico\Com_0330.ico
+C:\Program Files\PopUpMenu_PUM\menu\cpl\ico\Com_0331.ico
+C:\Program Files\PopUpMenu_PUM\menu\cpl\ico\Com_0332.ico
+C:\Program Files\PopUpMenu_PUM\menu\cpl\ico\Com_0333.ico
+C:\Program Files\PopUpMenu_PUM\menu\cpl\ico\Com_0334.ico
+C:\Program Files\PopUpMenu_PUM\menu\cpl\ico\Com_0335.ico
+C:\Program Files\PopUpMenu_PUM\menu\cpl\ico\Com_0336.ico
+C:\Program Files\PopUpMenu_PUM\menu\cpl\ico\Com_0337.ico
+C:\Program Files\PopUpMenu_PUM\menu\cpl\ico\Com_0338.ico
+C:\Program Files\PopUpMenu_PUM\menu\cpl\ico\Com_0339.ico
+C:\Program Files\PopUpMenu_PUM\menu\cpl\ico\Com_0340.ico
+C:\Program Files\PopUpMenu_PUM\menu\cpl\ico\Com_0341.ico
+C:\Program Files\PopUpMenu_PUM\menu\cpl\ico\Com_0342.ico
+============================================
+
