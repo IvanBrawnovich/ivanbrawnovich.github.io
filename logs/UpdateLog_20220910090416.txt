@@ -1,0 +1,12 @@
+﻿============================================
+This Update for Program
+Changed to this Update Number 15
+September, 10, 2022 At 09:04:16 am
+============================================
+============================================
+Changed Files = 2
+============================================
+C:\Program Files\PopUpMenu_PUM\SetWindowPosition.ahk
+C:\Program Files\PopUpMenu_PUM\Shortcut_Run.ahk
+============================================
+
