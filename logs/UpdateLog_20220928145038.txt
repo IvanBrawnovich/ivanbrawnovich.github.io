@@ -1,0 +1,37 @@
+﻿============================================
+This Update for Program
+Changed to this Update Number 17
+September, 28, 2022 At 2:50:38 pm
+============================================
+============================================
+Changed Files = 12
+============================================
+C:\Program Files\PopUpMenu_PUM\SysTray.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\cpl_number.txt
+C:\Program Files\PopUpMenu_PUM\menu\cpl\menu\menu_de.txt
+C:\Program Files\PopUpMenu_PUM\menu\cpl\menu\menu_en.txt
+C:\Program Files\PopUpMenu_PUM\menu\cpl\menu\menu_es.txt
+C:\Program Files\PopUpMenu_PUM\menu\cpl\menu\menu_fr.txt
+C:\Program Files\PopUpMenu_PUM\menu\cpl\menu\menu_it.txt
+C:\Program Files\PopUpMenu_PUM\menu\cpl\menu\menu_pl.txt
+C:\Program Files\PopUpMenu_PUM\menu\cpl\menu\menu_pt.txt
+C:\Program Files\PopUpMenu_PUM\menu\cpl\menu\menu_ru.txt
+C:\Program Files\PopUpMenu_PUM\menu\cpl\menu\menu_sv.txt
+C:\Program Files\PopUpMenu_PUM\menu\cpl\menu\menu_tr.txt
+============================================
+
+============================================
+New Files = 10
+============================================
+C:\Program Files\PopUpMenu_PUM\menu\cpl\menu\bak\menu_de.txt
+C:\Program Files\PopUpMenu_PUM\menu\cpl\menu\bak\menu_en.txt
+C:\Program Files\PopUpMenu_PUM\menu\cpl\menu\bak\menu_es.txt
+C:\Program Files\PopUpMenu_PUM\menu\cpl\menu\bak\menu_fr.txt
+C:\Program Files\PopUpMenu_PUM\menu\cpl\menu\bak\menu_it.txt
+C:\Program Files\PopUpMenu_PUM\menu\cpl\menu\bak\menu_pl.txt
+C:\Program Files\PopUpMenu_PUM\menu\cpl\menu\bak\menu_pt.txt
+C:\Program Files\PopUpMenu_PUM\menu\cpl\menu\bak\menu_ru.txt
+C:\Program Files\PopUpMenu_PUM\menu\cpl\menu\bak\menu_sv.txt
+C:\Program Files\PopUpMenu_PUM\menu\cpl\menu\bak\menu_tr.txt
+============================================
+
