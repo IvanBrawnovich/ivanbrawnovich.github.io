@@ -1,0 +1,16 @@
+﻿============================================
+This Update for Program
+Changed to this Update Number 25
+October, 19, 2022 At 4:47:46 pm
+============================================
+============================================
+Changed Files = 6
+============================================
+C:\Program Files\PopUpMenu_PUM\Pum_Run.ahk
+C:\Program Files\PopUpMenu_PUM\Shortcut_Description.ahk
+C:\Program Files\PopUpMenu_PUM\Shortcut_LButton.ahk
+C:\Program Files\PopUpMenu_PUM\Shortcut_RButton.ahk
+C:\Program Files\PopUpMenu_PUM\SysTray.ahk
+C:\Program Files\PopUpMenu_PUM\Sys_ResetDataArray.ahk
+============================================
+
