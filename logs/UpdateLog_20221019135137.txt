@@ -1,0 +1,16 @@
+﻿============================================
+This Update for Program
+Changed to this Update Number 24
+October, 19, 2022 At 1:51:37 pm
+============================================
+============================================
+Changed Files = 6
+============================================
+C:\Program Files\PopUpMenu_PUM\Pum_Create.ahk
+C:\Program Files\PopUpMenu_PUM\Pum_Default.ahk
+C:\Program Files\PopUpMenu_PUM\Shortcut_Description.ahk
+C:\Program Files\PopUpMenu_PUM\Shortcut_LButton.ahk
+C:\Program Files\PopUpMenu_PUM\Shortcut_RButton.ahk
+C:\Program Files\PopUpMenu_PUM\Url_Download.ahk
+============================================
+
