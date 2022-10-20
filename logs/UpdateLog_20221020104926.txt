@@ -1,0 +1,28 @@
+﻿============================================
+This Update for Program
+Changed to this Update Number 26
+October, 20, 2022 At 10:49:26 am
+============================================
+============================================
+Changed Files = 18
+============================================
+C:\Program Files\PopUpMenu_PUM\f_062.ahk
+C:\Program Files\PopUpMenu_PUM\f_135.ahk
+C:\Program Files\PopUpMenu_PUM\f_157.ahk
+C:\Program Files\PopUpMenu_PUM\f_159.ahk
+C:\Program Files\PopUpMenu_PUM\f_160.ahk
+C:\Program Files\PopUpMenu_PUM\f_161.ahk
+C:\Program Files\PopUpMenu_PUM\Pum_Create.ahk
+C:\Program Files\PopUpMenu_PUM\Pum_Default.ahk
+C:\Program Files\PopUpMenu_PUM\Pum_Run.ahk
+C:\Program Files\PopUpMenu_PUM\Shortcut_CatPaw.ahk
+C:\Program Files\PopUpMenu_PUM\Shortcut_Config.ahk
+C:\Program Files\PopUpMenu_PUM\Shortcut_Default.ahk
+C:\Program Files\PopUpMenu_PUM\Shortcut_RButton.ahk
+C:\Program Files\PopUpMenu_PUM\SysLoad.ahk
+C:\Program Files\PopUpMenu_PUM\SysTray.ahk
+C:\Program Files\PopUpMenu_PUM\Sys_ResetDataArray.ahk
+C:\Program Files\PopUpMenu_PUM\_S2_H.ahk
+C:\Program Files\PopUpMenu_PUM\_S3_S.ahk
+============================================
+
