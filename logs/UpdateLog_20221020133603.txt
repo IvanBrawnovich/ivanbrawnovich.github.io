@@ -1,0 +1,55 @@
+﻿============================================
+This Update for Program
+Changed to this Update Number 27
+October, 20, 2022 At 1:36:03 pm
+============================================
+============================================
+Changed Files = 6
+============================================
+C:\Program Files\PopUpMenu_PUM\Booster.ahk
+C:\Program Files\PopUpMenu_PUM\Pum_Create.ahk
+C:\Program Files\PopUpMenu_PUM\SysTray.ahk
+C:\Program Files\PopUpMenu_PUM\booster\pl_rsrc_english.dll
+C:\Program Files\PopUpMenu_PUM\booster\ProcessGovernor.exe
+C:\Program Files\PopUpMenu_PUM\booster\ProcessLasso.exe
+============================================
+
+============================================
+New Files = 34
+============================================
+C:\Program Files\PopUpMenu_PUM\booster\bitsumms.exe
+C:\Program Files\PopUpMenu_PUM\booster\bitsumsessionagent.exe
+C:\Program Files\PopUpMenu_PUM\booster\CPUEater.exe
+C:\Program Files\PopUpMenu_PUM\booster\Insights.exe
+C:\Program Files\PopUpMenu_PUM\booster\InstallHelper.exe
+C:\Program Files\PopUpMenu_PUM\booster\LICENSES
+C:\Program Files\PopUpMenu_PUM\booster\LogViewer.exe
+C:\Program Files\PopUpMenu_PUM\booster\pl-update.cmd
+C:\Program Files\PopUpMenu_PUM\booster\pl.cmd
+C:\Program Files\PopUpMenu_PUM\booster\plActivate.exe
+C:\Program Files\PopUpMenu_PUM\booster\pl_rsrc_bulgarian.dll
+C:\Program Files\PopUpMenu_PUM\booster\pl_rsrc_chinese.dll
+C:\Program Files\PopUpMenu_PUM\booster\pl_rsrc_chinese_traditional.dll
+C:\Program Files\PopUpMenu_PUM\booster\pl_rsrc_finnish.dll
+C:\Program Files\PopUpMenu_PUM\booster\pl_rsrc_french.dll
+C:\Program Files\PopUpMenu_PUM\booster\pl_rsrc_german.dll
+C:\Program Files\PopUpMenu_PUM\booster\pl_rsrc_italian.dll
+C:\Program Files\PopUpMenu_PUM\booster\pl_rsrc_japanese.dll
+C:\Program Files\PopUpMenu_PUM\booster\pl_rsrc_korean.dll
+C:\Program Files\PopUpMenu_PUM\booster\pl_rsrc_polish.dll
+C:\Program Files\PopUpMenu_PUM\booster\pl_rsrc_ptbr.dll
+C:\Program Files\PopUpMenu_PUM\booster\pl_rsrc_russian.dll
+C:\Program Files\PopUpMenu_PUM\booster\pl_rsrc_slovenian.dll
+C:\Program Files\PopUpMenu_PUM\booster\pl_rsrc_spanish.dll
+C:\Program Files\PopUpMenu_PUM\booster\ProcessLassoLauncher.exe
+C:\Program Files\PopUpMenu_PUM\booster\QuickUpgrade.exe
+C:\Program Files\PopUpMenu_PUM\booster\srvstub.exe
+C:\Program Files\PopUpMenu_PUM\booster\start-governor.bat
+C:\Program Files\PopUpMenu_PUM\booster\stop-governor.bat
+C:\Program Files\PopUpMenu_PUM\booster\testlasso.exe
+C:\Program Files\PopUpMenu_PUM\booster\ThreadRacer.exe
+C:\Program Files\PopUpMenu_PUM\booster\TweakScheduler.exe
+C:\Program Files\PopUpMenu_PUM\booster\uninstall.exe
+C:\Program Files\PopUpMenu_PUM\booster\vistammsc.exe
+============================================
+
