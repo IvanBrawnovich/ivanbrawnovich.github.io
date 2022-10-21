@@ -1,0 +1,14 @@
+﻿============================================
+This Update for Program
+Changed to this Update Number 31
+October, 21, 2022 At 09:38:18 am
+============================================
+============================================
+Changed Files = 4
+============================================
+C:\Program Files\PopUpMenu_PUM\Image_PumDim.ahk
+C:\Program Files\PopUpMenu_PUM\Shortcut_Description.ahk
+C:\Program Files\PopUpMenu_PUM\Shortcut_LButton.ahk
+C:\Program Files\PopUpMenu_PUM\Shortcut_RButton.ahk
+============================================
+
