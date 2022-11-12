@@ -1,0 +1,75 @@
+﻿============================================
+This Update for Program
+Changed to this Update Number 34
+November, 12, 2022 At 2:34:35 pm
+============================================
+============================================
+Changed Files = 59
+============================================
+C:\Program Files\PopUpMenu_PUM\Array_FromFile.ahk
+C:\Program Files\PopUpMenu_PUM\Array_ItemExist.ahk
+C:\Program Files\PopUpMenu_PUM\Array_ItemPosition.ahk
+C:\Program Files\PopUpMenu_PUM\Array_ReplaceItem.ahk
+C:\Program Files\PopUpMenu_PUM\Array_Reverse.ahk
+C:\Program Files\PopUpMenu_PUM\f_004.ahk
+C:\Program Files\PopUpMenu_PUM\f_063.ahk
+C:\Program Files\PopUpMenu_PUM\f_068.ahk
+C:\Program Files\PopUpMenu_PUM\f_081.ahk
+C:\Program Files\PopUpMenu_PUM\f_082.ahk
+C:\Program Files\PopUpMenu_PUM\f_154.ahk
+C:\Program Files\PopUpMenu_PUM\f_155.ahk
+C:\Program Files\PopUpMenu_PUM\f_156.ahk
+C:\Program Files\PopUpMenu_PUM\f_157.ahk
+C:\Program Files\PopUpMenu_PUM\f_159.ahk
+C:\Program Files\PopUpMenu_PUM\f_164.ahk
+C:\Program Files\PopUpMenu_PUM\f_165.ahk
+C:\Program Files\PopUpMenu_PUM\f_167.ahk
+C:\Program Files\PopUpMenu_PUM\f_172.ahk
+C:\Program Files\PopUpMenu_PUM\f_178.ahk
+C:\Program Files\PopUpMenu_PUM\f_179.ahk
+C:\Program Files\PopUpMenu_PUM\f_182.ahk
+C:\Program Files\PopUpMenu_PUM\f_183.ahk
+C:\Program Files\PopUpMenu_PUM\f_241.ahk
+C:\Program Files\PopUpMenu_PUM\f_242.ahk
+C:\Program Files\PopUpMenu_PUM\f_243.ahk
+C:\Program Files\PopUpMenu_PUM\f_244.ahk
+C:\Program Files\PopUpMenu_PUM\f_245.ahk
+C:\Program Files\PopUpMenu_PUM\f_246.ahk
+C:\Program Files\PopUpMenu_PUM\f_247.ahk
+C:\Program Files\PopUpMenu_PUM\f_248.ahk
+C:\Program Files\PopUpMenu_PUM\f_249.ahk
+C:\Program Files\PopUpMenu_PUM\f_250.ahk
+C:\Program Files\PopUpMenu_PUM\f_251.ahk
+C:\Program Files\PopUpMenu_PUM\f_267.ahk
+C:\Program Files\PopUpMenu_PUM\f_268.ahk
+C:\Program Files\PopUpMenu_PUM\f_273.ahk
+C:\Program Files\PopUpMenu_PUM\f_274.ahk
+C:\Program Files\PopUpMenu_PUM\f_290.ahk
+C:\Program Files\PopUpMenu_PUM\Image_PumDim.ahk
+C:\Program Files\PopUpMenu_PUM\Pum_ColorSelect.ahk
+C:\Program Files\PopUpMenu_PUM\Pum_Create.ahk
+C:\Program Files\PopUpMenu_PUM\Pum_Default.ahk
+C:\Program Files\PopUpMenu_PUM\Pum_DisplayImageImg.ahk
+C:\Program Files\PopUpMenu_PUM\Pum_DisplayImageTxt.ahk
+C:\Program Files\PopUpMenu_PUM\Pum_FileDelete.ahk
+C:\Program Files\PopUpMenu_PUM\Pum_Run.ahk
+C:\Program Files\PopUpMenu_PUM\Pum_SelectedColorDisplay.ahk
+C:\Program Files\PopUpMenu_PUM\Pum_Vars.ahk
+C:\Program Files\PopUpMenu_PUM\Shortcut_CatPaw.ahk
+C:\Program Files\PopUpMenu_PUM\Shortcut_Config.ahk
+C:\Program Files\PopUpMenu_PUM\Shortcut_Default.ahk
+C:\Program Files\PopUpMenu_PUM\Shortcut_Info.ahk
+C:\Program Files\PopUpMenu_PUM\Shortcut_RButton.ahk
+C:\Program Files\PopUpMenu_PUM\Splash_519.ahk
+C:\Program Files\PopUpMenu_PUM\SysConfig.ahk
+C:\Program Files\PopUpMenu_PUM\SysTray.ahk
+C:\Program Files\PopUpMenu_PUM\_S2_H.ahk
+C:\Program Files\PopUpMenu_PUM\_S3_S.ahk
+============================================
+
+============================================
+New Files = 1
+============================================
+C:\Program Files\PopUpMenu_PUM\ProveRowYColX.ahk
+============================================
+
