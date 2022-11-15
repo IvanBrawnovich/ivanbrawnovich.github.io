@@ -1,0 +1,15 @@
+﻿============================================
+This Update for Program
+Changed to this Update Number 37
+November, 15, 2022 At 12:27:37 Noon
+============================================
+============================================
+Changed Files = 5
+============================================
+C:\Program Files\PopUpMenu_PUM\f_004.ahk
+C:\Program Files\PopUpMenu_PUM\f_133.ahk
+C:\Program Files\PopUpMenu_PUM\Shortcut_Description.ahk
+C:\Program Files\PopUpMenu_PUM\Shortcut_Run.ahk
+C:\Program Files\PopUpMenu_PUM\SysTray.ahk
+============================================
+
