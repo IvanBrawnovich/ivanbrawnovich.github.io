@@ -1,0 +1,76 @@
+﻿============================================
+This Update for Program
+Changed to this Update Number 41
+November, 21, 2022 At 09:50:21 am
+============================================
+============================================
+Changed Files = 7
+============================================
+C:\Program Files\PopUpMenu_PUM\Clipboard_Watch.ahk
+C:\Program Files\PopUpMenu_PUM\Pum_Backup.ahk
+C:\Program Files\PopUpMenu_PUM\Pum_Restore.ahk
+C:\Program Files\PopUpMenu_PUM\Shortcut_Config.ahk
+C:\Program Files\PopUpMenu_PUM\SysTray.ahk
+C:\Program Files\PopUpMenu_PUM\_S2_H.ahk
+C:\Program Files\PopUpMenu_PUM\_S3_S.ahk
+============================================
+
+============================================
+New Files = 54
+============================================
+C:\Program Files\PopUpMenu_PUM\f_162.ahk
+C:\Program Files\PopUpMenu_PUM\f_163.ahk
+C:\Program Files\PopUpMenu_PUM\Pum_GetRestoreFile.ahk
+C:\Program Files\PopUpMenu_PUM\image\gui\(137)_PB_de.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(137)_PB_en.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(137)_PB_es.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(137)_PB_fr.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(137)_PB_it.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(137)_PB_pl.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(137)_PB_pt.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(137)_PB_ru.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(137)_PB_sv.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(137)_PB_tr.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(162)_1_de.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(162)_1_en.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(162)_1_es.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(162)_1_fr.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(162)_1_it.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(162)_1_pl.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(162)_1_pt.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(162)_1_ru.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(162)_1_sv.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(162)_1_tr.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(162)_2_de.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(162)_2_en.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(162)_2_es.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(162)_2_fr.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(162)_2_it.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(162)_2_pl.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(162)_2_pt.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(162)_2_ru.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(162)_2_sv.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(162)_2_tr.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(163)_1_de.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(163)_1_en.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(163)_1_es.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(163)_1_fr.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(163)_1_it.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(163)_1_pl.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(163)_1_pt.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(163)_1_ru.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(163)_1_sv.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(163)_1_tr.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(163)_2_de.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(163)_2_en.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(163)_2_es.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(163)_2_fr.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(163)_2_it.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(163)_2_pl.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(163)_2_pt.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(163)_2_ru.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(163)_2_sv.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(163)_2_tr.png
+C:\Program Files\PopUpMenu_PUM\image\ico\Clipboard_Watch.png
+============================================
+
