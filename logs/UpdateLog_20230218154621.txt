@@ -1,0 +1,13 @@
+﻿============================================
+This Update for Program
+Changed to this Update Number 47
+February, 18, 2023 At 3:46:21 pm
+============================================
+============================================
+Changed Files = 3
+============================================
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0344.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\scrollnote\Scroll_Gui.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\scrollnote\Scroll_Note.ahk
+============================================
+
