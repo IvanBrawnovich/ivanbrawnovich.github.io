@@ -1,0 +1,14 @@
+﻿============================================
+This Update for Program
+Changed to this Update Number 48
+February, 20, 2023 At 4:47:06 pm
+============================================
+============================================
+Changed Files = 4
+============================================
+C:\Program Files\PopUpMenu_PUM\PopUpMenu.ahk
+C:\Program Files\PopUpMenu_PUM\SysTray.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0344.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\scrollnote\Scroll_Gui.ahk
+============================================
+
