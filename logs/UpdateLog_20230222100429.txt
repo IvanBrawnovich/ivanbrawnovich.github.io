@@ -1,0 +1,128 @@
+﻿============================================
+This Update for Program
+Changed to this Update Number 49
+February, 22, 2023 At 10:04:29 am
+============================================
+============================================
+Changed Files = 8
+============================================
+C:\Program Files\PopUpMenu_PUM\File_UnZip.ahk
+C:\Program Files\PopUpMenu_PUM\Splash_500.ahk
+C:\Program Files\PopUpMenu_PUM\Splash_501.ahk
+C:\Program Files\PopUpMenu_PUM\Splash_515.ahk
+C:\Program Files\PopUpMenu_PUM\Splash_518.ahk
+C:\Program Files\PopUpMenu_PUM\SysConfig.ahk
+C:\Program Files\PopUpMenu_PUM\SysLoad.ahk
+C:\Program Files\PopUpMenu_PUM\SysTray.ahk
+============================================
+
+============================================
+New Files = 105
+============================================
+C:\Program Files\PopUpMenu_PUM\image\gui\(500)_1.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(500)_10.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(500)_11.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(500)_12.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(500)_13.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(500)_14.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(500)_15.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(500)_16.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(500)_17.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(500)_18.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(500)_19.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(500)_2.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(500)_20.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(500)_21.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(500)_22.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(500)_23.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(500)_3.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(500)_4.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(500)_5.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(500)_6.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(500)_7.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(500)_8.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(500)_9.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(501)_1_de.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(501)_1_en.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(501)_1_es.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(501)_1_fr.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(501)_1_it.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(501)_1_pl.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(501)_1_pt.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(501)_1_ru.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(501)_1_sv.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(501)_1_tr.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(501)_2_de.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(501)_2_en.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(501)_2_es.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(501)_2_fr.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(501)_2_it.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(501)_2_pl.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(501)_2_pt.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(501)_2_ru.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(501)_2_sv.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(501)_2_tr.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(515)_1.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(515)_10.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(515)_11.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(515)_12.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(515)_13.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(515)_14.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(515)_15.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(515)_16.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(515)_17.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(515)_18.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(515)_19.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(515)_2.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(515)_20.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(515)_21.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(515)_22.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(515)_23.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(515)_24.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(515)_25.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(515)_26.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(515)_27.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(515)_28.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(515)_29.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(515)_3.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(515)_30.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(515)_31.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(515)_32.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(515)_33.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(515)_34.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(515)_35.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(515)_36.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(515)_37.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(515)_38.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(515)_39.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(515)_4.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(515)_40.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(515)_41.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(515)_42.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(515)_43.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(515)_44.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(515)_45.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(515)_46.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(515)_47.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(515)_48.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(515)_49.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(515)_5.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(515)_50.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(515)_51.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(515)_52.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(515)_53.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(515)_54.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(515)_55.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(515)_56.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(515)_57.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(515)_58.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(515)_59.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(515)_6.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(515)_60.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(515)_61.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(515)_62.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(515)_7.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(515)_8.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(515)_9.png
+============================================
+
