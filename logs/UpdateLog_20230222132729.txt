@@ -1,0 +1,17 @@
+﻿============================================
+This Update for Program
+Changed to this Update Number 50
+February, 22, 2023 At 1:27:29 pm
+============================================
+============================================
+Changed Files = 7
+============================================
+C:\Program Files\PopUpMenu_PUM\f_063.ahk
+C:\Program Files\PopUpMenu_PUM\f_165.ahk
+C:\Program Files\PopUpMenu_PUM\Image_Convert.ahk
+C:\Program Files\PopUpMenu_PUM\Select_FileFolder.ahk
+C:\Program Files\PopUpMenu_PUM\Url_GetIcon.ahk
+C:\Program Files\PopUpMenu_PUM\VarIsType.ahk
+C:\Program Files\PopUpMenu_PUM\image\ico\FolderKey.zip
+============================================
+
