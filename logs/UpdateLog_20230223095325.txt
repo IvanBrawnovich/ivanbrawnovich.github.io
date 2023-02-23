@@ -1,0 +1,15 @@
+﻿============================================
+This Update for Program
+Changed to this Update Number 51
+February, 23, 2023 At 09:53:25 am
+============================================
+============================================
+Changed Files = 5
+============================================
+C:\Program Files\PopUpMenu_PUM\Image_Convert.ahk
+C:\Program Files\PopUpMenu_PUM\Splash_500.ahk
+C:\Program Files\PopUpMenu_PUM\Splash_501.ahk
+C:\Program Files\PopUpMenu_PUM\SysConfig.ahk
+C:\Program Files\PopUpMenu_PUM\SysTray.ahk
+============================================
+
