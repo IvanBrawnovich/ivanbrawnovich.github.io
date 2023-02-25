@@ -1,0 +1,31 @@
+﻿============================================
+This Update for Program
+Changed to this Update Number 53
+February, 25, 2023 At 2:32:37 pm
+============================================
+============================================
+Changed Files = 21
+============================================
+C:\Program Files\PopUpMenu_PUM\Splash_501.ahk
+C:\Program Files\PopUpMenu_PUM\image\gui\(501)_1_de.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(501)_1_en.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(501)_1_es.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(501)_1_fr.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(501)_1_it.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(501)_1_pl.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(501)_1_pt.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(501)_1_ru.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(501)_1_sv.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(501)_1_tr.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(501)_2_de.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(501)_2_en.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(501)_2_es.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(501)_2_fr.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(501)_2_it.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(501)_2_pl.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(501)_2_pt.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(501)_2_ru.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(501)_2_sv.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(501)_2_tr.png
+============================================
+
