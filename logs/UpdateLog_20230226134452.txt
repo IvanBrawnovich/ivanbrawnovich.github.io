@@ -1,0 +1,21 @@
+﻿============================================
+This Update for Program
+Changed to this Update Number 55
+February, 26, 2023 At 1:44:52 pm
+============================================
+============================================
+Changed Files = 11
+============================================
+C:\Program Files\PopUpMenu_PUM\f_004.ahk
+C:\Program Files\PopUpMenu_PUM\Pum_Create.ahk
+C:\Program Files\PopUpMenu_PUM\Shortcut_CatPaw.ahk
+C:\Program Files\PopUpMenu_PUM\Shortcut_Config.ahk
+C:\Program Files\PopUpMenu_PUM\Shortcut_Default.ahk
+C:\Program Files\PopUpMenu_PUM\Splash_500.ahk
+C:\Program Files\PopUpMenu_PUM\Splash_501.ahk
+C:\Program Files\PopUpMenu_PUM\Splash_515.ahk
+C:\Program Files\PopUpMenu_PUM\SysConfig.ahk
+C:\Program Files\PopUpMenu_PUM\SysLoad.ahk
+C:\Program Files\PopUpMenu_PUM\SysTray.ahk
+============================================
+
