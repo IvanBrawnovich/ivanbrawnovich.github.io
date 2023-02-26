@@ -1,0 +1,26 @@
+﻿============================================
+This Update for Program
+Changed to this Update Number 54
+February, 26, 2023 At 11:50:44 am
+============================================
+============================================
+Changed Files = 8
+============================================
+C:\Program Files\PopUpMenu_PUM\Pum_Run.ahk
+C:\Program Files\PopUpMenu_PUM\Splash_500.ahk
+C:\Program Files\PopUpMenu_PUM\Splash_501.ahk
+C:\Program Files\PopUpMenu_PUM\Splash_515.ahk
+C:\Program Files\PopUpMenu_PUM\SysConfig.ahk
+C:\Program Files\PopUpMenu_PUM\SysTray.ahk
+C:\Program Files\PopUpMenu_PUM\Url_GetUrl.ahk
+C:\Program Files\PopUpMenu_PUM\_S3_S.ahk
+============================================
+
+============================================
+New Files = 3
+============================================
+C:\Program Files\PopUpMenu_PUM\Url_GetUrl_1.ahk
+C:\Program Files\PopUpMenu_PUM\Url_GetUrl_2.ahk
+C:\Program Files\PopUpMenu_PUM\Url_GetUrl_3.ahk
+============================================
+
