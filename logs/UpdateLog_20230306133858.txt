@@ -1,0 +1,86 @@
+﻿============================================
+This Update for Program
+Changed to this Update Number 58
+March, 06, 2023 At 1:38:58 pm
+============================================
+============================================
+Changed Files = 70
+============================================
+C:\Program Files\PopUpMenu_PUM\f_071.ahk
+C:\Program Files\PopUpMenu_PUM\f_165.ahk
+C:\Program Files\PopUpMenu_PUM\l_520.ahk
+C:\Program Files\PopUpMenu_PUM\Pum_Create.ahk
+C:\Program Files\PopUpMenu_PUM\Pum_Run.ahk
+C:\Program Files\PopUpMenu_PUM\Splash_500.ahk
+C:\Program Files\PopUpMenu_PUM\Splash_501.ahk
+C:\Program Files\PopUpMenu_PUM\Splash_519.ahk
+C:\Program Files\PopUpMenu_PUM\SysTray.ahk
+C:\Program Files\PopUpMenu_PUM\image\gui\(520)_1.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(520)_10.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(520)_11.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(520)_12.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(520)_13.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(520)_14.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(520)_15.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(520)_16.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(520)_17.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(520)_18.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(520)_19.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(520)_2.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(520)_20.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(520)_21.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(520)_22.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(520)_23.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(520)_24.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(520)_25.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(520)_26.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(520)_27.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(520)_28.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(520)_29.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(520)_3.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(520)_30.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(520)_31.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(520)_32.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(520)_33.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(520)_34.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(520)_35.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(520)_36.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(520)_37.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(520)_38.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(520)_39.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(520)_4.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(520)_40.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(520)_41.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(520)_42.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(520)_43.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(520)_44.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(520)_45.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(520)_46.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(520)_47.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(520)_48.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(520)_49.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(520)_5.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(520)_50.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(520)_51.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(520)_52.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(520)_53.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(520)_54.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(520)_55.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(520)_56.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(520)_57.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(520)_58.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(520)_59.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(520)_6.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(520)_60.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(520)_7.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(520)_8.png
+C:\Program Files\PopUpMenu_PUM\image\gui\(520)_9.png
+C:\Program Files\PopUpMenu_PUM\image\pum\PumFrame.png
+============================================
+
+============================================
+New Files = 1
+============================================
+C:\Program Files\PopUpMenu_PUM\image\pum\Info_bg.txt
+============================================
+
