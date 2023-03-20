@@ -1,0 +1,35 @@
+﻿============================================
+This Update for Program
+Changed to this Update Number 59
+March, 20, 2023 At 10:42:56 am
+============================================
+============================================
+Changed Files = 25
+============================================
+C:\Program Files\PopUpMenu_PUM\f_071.ahk
+C:\Program Files\PopUpMenu_PUM\f_081.ahk
+C:\Program Files\PopUpMenu_PUM\f_082.ahk
+C:\Program Files\PopUpMenu_PUM\f_083.ahk
+C:\Program Files\PopUpMenu_PUM\f_135.ahk
+C:\Program Files\PopUpMenu_PUM\f_160.ahk
+C:\Program Files\PopUpMenu_PUM\f_161.ahk
+C:\Program Files\PopUpMenu_PUM\f_290.ahk
+C:\Program Files\PopUpMenu_PUM\Image_MultIconDisplay.ahk
+C:\Program Files\PopUpMenu_PUM\PluginSendKey.ahk
+C:\Program Files\PopUpMenu_PUM\Pum_Create.ahk
+C:\Program Files\PopUpMenu_PUM\Pum_DisplayPumApp.ahk
+C:\Program Files\PopUpMenu_PUM\Pum_Run.ahk
+C:\Program Files\PopUpMenu_PUM\Select_FileFolder.ahk
+C:\Program Files\PopUpMenu_PUM\Shortcut_Info.ahk
+C:\Program Files\PopUpMenu_PUM\Shortcut_Run.ahk
+C:\Program Files\PopUpMenu_PUM\Shortcut_RunArray.ahk
+C:\Program Files\PopUpMenu_PUM\SysTray.ahk
+C:\Program Files\PopUpMenu_PUM\Sys_ResetDataArray.ahk
+C:\Program Files\PopUpMenu_PUM\Url_GetIcon.ahk
+C:\Program Files\PopUpMenu_PUM\Url_GetUrl.ahk
+C:\Program Files\PopUpMenu_PUM\_S1_C.ahk
+C:\Program Files\PopUpMenu_PUM\_S2_H.ahk
+C:\Program Files\PopUpMenu_PUM\_S3_S.ahk
+C:\Program Files\PopUpMenu_PUM\image\gui\(135)_1_url.png
+============================================
+
