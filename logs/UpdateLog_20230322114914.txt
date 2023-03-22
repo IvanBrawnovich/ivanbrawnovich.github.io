@@ -1,0 +1,12 @@
+﻿============================================
+This Update for Program
+Changed to this Update Number 61
+March, 22, 2023 At 11:49:14 am
+============================================
+============================================
+Changed Files = 2
+============================================
+C:\Program Files\PopUpMenu_PUM\PluginSendKey.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0344.ahk
+============================================
+
