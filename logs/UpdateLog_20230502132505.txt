@@ -1,0 +1,30 @@
+﻿============================================
+This Update for Program
+Changed to this Update Number 67
+May, 02, 2023 At 1:25:05 pm
+============================================
+============================================
+Changed Files = 20
+============================================
+C:\Program Files\PopUpMenu_PUM\f_157.ahk
+C:\Program Files\PopUpMenu_PUM\f_159.ahk
+C:\Program Files\PopUpMenu_PUM\f_290.ahk
+C:\Program Files\PopUpMenu_PUM\Image_PumDim.ahk
+C:\Program Files\PopUpMenu_PUM\Pum_Create.ahk
+C:\Program Files\PopUpMenu_PUM\Pum_Default.ahk
+C:\Program Files\PopUpMenu_PUM\Pum_GridCheck.ahk
+C:\Program Files\PopUpMenu_PUM\Pum_Run.ahk
+C:\Program Files\PopUpMenu_PUM\Shortcut_CatPaw.ahk
+C:\Program Files\PopUpMenu_PUM\Shortcut_Config.ahk
+C:\Program Files\PopUpMenu_PUM\Shortcut_Default.ahk
+C:\Program Files\PopUpMenu_PUM\Shortcut_Info.ahk
+C:\Program Files\PopUpMenu_PUM\Splash_Script.ahk
+C:\Program Files\PopUpMenu_PUM\SysConfig.ahk
+C:\Program Files\PopUpMenu_PUM\SysLoad.ahk
+C:\Program Files\PopUpMenu_PUM\SysTray.ahk
+C:\Program Files\PopUpMenu_PUM\_S2_H.ahk
+C:\Program Files\PopUpMenu_PUM\_S3_S.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0344.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\scrollnote\Scroll_Note.ahk
+============================================
+
