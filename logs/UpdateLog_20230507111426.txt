@@ -1,0 +1,24 @@
+﻿============================================
+This Update for Program
+Changed to this Update Number 68
+May, 07, 2023 At 11:14:26 am
+============================================
+============================================
+Changed Files = 8
+============================================
+C:\Program Files\PopUpMenu_PUM\Pum_Create.ahk
+C:\Program Files\PopUpMenu_PUM\Pum_Default.ahk
+C:\Program Files\PopUpMenu_PUM\Pum_GridCheck.ahk
+C:\Program Files\PopUpMenu_PUM\Pum_Run.ahk
+C:\Program Files\PopUpMenu_PUM\Shortcut_CatPaw.ahk
+C:\Program Files\PopUpMenu_PUM\Shortcut_Config.ahk
+C:\Program Files\PopUpMenu_PUM\Shortcut_Default.ahk
+C:\Program Files\PopUpMenu_PUM\SysTray.ahk
+============================================
+
+============================================
+New Files = 1
+============================================
+C:\Program Files\PopUpMenu_PUM\XmlWrite.ahk
+============================================
+
