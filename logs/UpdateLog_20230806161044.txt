@@ -1,0 +1,55 @@
+﻿============================================
+This Update for Program
+Changed to this Update Number 71
+August, 06, 2023 At 4:10:44 pm
+============================================
+============================================
+Changed Files = 16
+============================================
+C:\Program Files\PopUpMenu_PUM\Image_ResizeImg.ahk
+C:\Program Files\PopUpMenu_PUM\Uninstall.lnk
+C:\Program Files\PopUpMenu_PUM\XmlBackup.ahk
+C:\Program Files\PopUpMenu_PUM\XmlValidate.ahk
+C:\Program Files\PopUpMenu_PUM\XmlWrite.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\cpl_number.txt
+C:\Program Files\PopUpMenu_PUM\menu\cpl\menu\menu_de.txt
+C:\Program Files\PopUpMenu_PUM\menu\cpl\menu\menu_en.txt
+C:\Program Files\PopUpMenu_PUM\menu\cpl\menu\menu_es.txt
+C:\Program Files\PopUpMenu_PUM\menu\cpl\menu\menu_fr.txt
+C:\Program Files\PopUpMenu_PUM\menu\cpl\menu\menu_it.txt
+C:\Program Files\PopUpMenu_PUM\menu\cpl\menu\menu_pl.txt
+C:\Program Files\PopUpMenu_PUM\menu\cpl\menu\menu_pt.txt
+C:\Program Files\PopUpMenu_PUM\menu\cpl\menu\menu_ru.txt
+C:\Program Files\PopUpMenu_PUM\menu\cpl\menu\menu_sv.txt
+C:\Program Files\PopUpMenu_PUM\menu\cpl\menu\menu_tr.txt
+============================================
+
+============================================
+New Files = 24
+============================================
+C:\Program Files\PopUpMenu_PUM\ErrorLog.ahk
+C:\Program Files\PopUpMenu_PUM\PopUpMenu.lnk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0345.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0346.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0347.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\ico\Com_0345.ico
+C:\Program Files\PopUpMenu_PUM\menu\cpl\ico\Com_0346.ico
+C:\Program Files\PopUpMenu_PUM\menu\cpl\ico\Com_0347.ico
+C:\Program Files\PopUpMenu_PUM\support\CdOpenClose\CdOpenClose.exe
+C:\Program Files\PopUpMenu_PUM\support\CdOpenClose\CD_Close.bat
+C:\Program Files\PopUpMenu_PUM\support\CdOpenClose\CD_Close_Link.lnk
+C:\Program Files\PopUpMenu_PUM\support\CdOpenClose\CD_Open.bat
+C:\Program Files\PopUpMenu_PUM\support\CdOpenClose\CD_Open_Link.lnk
+C:\Program Files\PopUpMenu_PUM\support\firewallblocker\CurrentFirwallBlockList.ini
+C:\Program Files\PopUpMenu_PUM\support\firewallblocker\Fab.ini
+C:\Program Files\PopUpMenu_PUM\support\firewallblocker\Firewall_App_Blocker.exe
+C:\Program Files\PopUpMenu_PUM\support\firewallblocker\Firewall_App_Blocker.ini
+C:\Program Files\PopUpMenu_PUM\support\firewallblocker\Firewall_App_Blocker_x64.exe
+C:\Program Files\PopUpMenu_PUM\support\firewallblocker\Firewall_Blocker.ahk
+C:\Program Files\PopUpMenu_PUM\support\PopUpMenu_Tracker\ClipBoardEmpty.png
+C:\Program Files\PopUpMenu_PUM\support\PopUpMenu_Tracker\ClipBoardFull.png
+C:\Program Files\PopUpMenu_PUM\support\PopUpMenu_Tracker\PopUpMenu_Tracker.exe
+C:\Program Files\PopUpMenu_PUM\support\PopUpMenu_Tracker\PopUpMenu_Tracker.ico
+C:\Program Files\PopUpMenu_PUM\support\PopUpMenu_Tracker\PopUpMenu_Tracker.png
+============================================
+
