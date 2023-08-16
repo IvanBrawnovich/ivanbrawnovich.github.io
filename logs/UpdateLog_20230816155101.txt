@@ -1,0 +1,22 @@
+﻿============================================
+This Update for Program
+Changed to this Update Number 75
+August, 16, 2023 At 3:51:01 pm
+============================================
+============================================
+Changed Files = 5
+============================================
+C:\Program Files\PopUpMenu_PUM\Pum_Run.ahk
+C:\Program Files\PopUpMenu_PUM\Shortcut_RButton.ahk
+C:\Program Files\PopUpMenu_PUM\Shortcut_Run.ahk
+C:\Program Files\PopUpMenu_PUM\SysTray.ahk
+C:\Program Files\PopUpMenu_PUM\XmlValidate.ahk
+============================================
+
+============================================
+New Files = 2
+============================================
+C:\Program Files\PopUpMenu_PUM\support\DigiCertUtil.exe
+C:\Program Files\PopUpMenu_PUM\support\resourcehacker\resourcehacker - Shortcut.lnk
+============================================
+
