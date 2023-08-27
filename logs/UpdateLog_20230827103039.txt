@@ -1,0 +1,19 @@
+﻿============================================
+This Update for Program
+Changed to this Update Number 81
+August, 27, 2023 At 10:30:39 am
+============================================
+============================================
+Changed Files = 9
+============================================
+C:\Program Files\PopUpMenu_PUM\f_071.ahk
+C:\Program Files\PopUpMenu_PUM\f_084.ahk
+C:\Program Files\PopUpMenu_PUM\Pum_Run.ahk
+C:\Program Files\PopUpMenu_PUM\SysTray.ahk
+C:\Program Files\PopUpMenu_PUM\Url_GetUrl.ahk
+C:\Program Files\PopUpMenu_PUM\_S2_H.ahk
+C:\Program Files\PopUpMenu_PUM\_S3_S.ahk
+C:\Program Files\PopUpMenu_PUM\support\firewallblocker\Firewall_App_Blocker.ini
+C:\Program Files\PopUpMenu_PUM\support\firewallblocker\Firewall_Blocker.ahk
+============================================
+
