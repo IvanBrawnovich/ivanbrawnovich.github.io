@@ -1,0 +1,20 @@
+﻿============================================
+This Update for Program
+Changed to this Update Number 82
+August, 31, 2023 At 10:48:03 am
+============================================
+============================================
+Changed Files = 2
+============================================
+C:\Program Files\PopUpMenu_PUM\support\firewallblocker\Firewall_App_Blocker.ini
+C:\Program Files\PopUpMenu_PUM\support\PopUpMenu_Tracker\PopUpMenu_Tracker.exe
+============================================
+
+============================================
+New Files = 3
+============================================
+C:\Program Files\PopUpMenu_PUM\support\PopUpMenu_Tracker\minimize.png
+C:\Program Files\PopUpMenu_PUM\support\PopUpMenu_Tracker\PopUpMenu_Tracker.ahk
+C:\Program Files\PopUpMenu_PUM\support\PopUpMenu_Tracker\temp.ahk
+============================================
+
