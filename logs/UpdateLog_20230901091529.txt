@@ -1,0 +1,12 @@
+﻿============================================
+This Update for Program
+Changed to this Update Number 83
+September, 01, 2023 At 09:15:29 am
+============================================
+============================================
+Changed Files = 2
+============================================
+C:\Program Files\PopUpMenu_PUM\f_071.ahk
+C:\Program Files\PopUpMenu_PUM\Pum_Run.ahk
+============================================
+

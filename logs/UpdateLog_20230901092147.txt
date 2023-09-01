@@ -1,0 +1,11 @@
+﻿============================================
+This Update for Program
+Changed to this Update Number 84
+September, 01, 2023 At 09:21:47 am
+============================================
+============================================
+Changed Files = 1
+============================================
+C:\Program Files\PopUpMenu_PUM\support\PopUpMenu_Tracker\PopUpMenu_Tracker.exe
+============================================
+
