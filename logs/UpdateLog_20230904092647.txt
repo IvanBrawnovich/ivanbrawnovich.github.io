@@ -1,0 +1,14 @@
+﻿============================================
+This Update for Program
+Changed to this Update Number 86
+September, 04, 2023 At 09:26:47 am
+============================================
+============================================
+Changed Files = 4
+============================================
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\scrollnote\Scroll_Gui.ahk
+C:\Program Files\PopUpMenu_PUM\support\firewallblocker\Firewall_App_Blocker.ini
+C:\Program Files\PopUpMenu_PUM\support\PopUpMenu_Tracker\PopUpMenu_Tracker.ahk
+C:\Program Files\PopUpMenu_PUM\support\PopUpMenu_Tracker\PopUpMenu_Tracker.exe
+============================================
+
