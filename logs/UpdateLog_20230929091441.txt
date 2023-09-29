@@ -1,0 +1,18 @@
+﻿============================================
+This Update for Program
+Changed to this Update Number 88
+September, 29, 2023 At 09:14:41 am
+============================================
+============================================
+Changed Files = 2
+============================================
+C:\Program Files\PopUpMenu_PUM\Shortcut_RButton.ahk
+C:\Program Files\PopUpMenu_PUM\support\PopUpMenu_Tracker\PopUpMenu_Tracker.exe
+============================================
+
+============================================
+New Files = 1
+============================================
+C:\Program Files\PopUpMenu_PUM\Image_ChangeDPI.ahk
+============================================
+
