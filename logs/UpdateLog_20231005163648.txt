@@ -1,0 +1,132 @@
+﻿============================================
+This Update for Program
+Changed to this Update Number 89
+October, 05, 2023 At 4:36:48 pm
+============================================
+============================================
+Changed Files = 10
+============================================
+C:\Program Files\PopUpMenu_PUM\Image_ChangeDPI.ahk
+C:\Program Files\PopUpMenu_PUM\Image_Convert.ahk
+C:\Program Files\PopUpMenu_PUM\Image_ResizeImg.ahk
+C:\Program Files\PopUpMenu_PUM\Pum_Default.ahk
+C:\Program Files\PopUpMenu_PUM\Pum_FileDelete.ahk
+C:\Program Files\PopUpMenu_PUM\Shortcut_Run.ahk
+C:\Program Files\PopUpMenu_PUM\pum_default\ahk\mobiletext.txt
+C:\Program Files\PopUpMenu_PUM\pum_default\image\bg_Selected_Bmp.bmp
+C:\Program Files\PopUpMenu_PUM\pum_default\pumiconcache\00000000000000.ico
+C:\Program Files\PopUpMenu_PUM\pum_default\settings\toolbox0.xml
+============================================
+
+============================================
+New Files = 107
+============================================
+C:\Program Files\PopUpMenu_PUM\pum_ahk_default\de\cpl-00000000000000.ahk
+C:\Program Files\PopUpMenu_PUM\pum_ahk_default\de\key-00000000000001.ahk
+C:\Program Files\PopUpMenu_PUM\pum_ahk_default\de\key-00000000000002.ahk
+C:\Program Files\PopUpMenu_PUM\pum_ahk_default\de\key-00000000000003.ahk
+C:\Program Files\PopUpMenu_PUM\pum_ahk_default\de\key-00000000000004.ahk
+C:\Program Files\PopUpMenu_PUM\pum_ahk_default\de\key-00000000000005.ahk
+C:\Program Files\PopUpMenu_PUM\pum_ahk_default\de\key-00000000000006.ahk
+C:\Program Files\PopUpMenu_PUM\pum_ahk_default\de\key-00000000000007.ahk
+C:\Program Files\PopUpMenu_PUM\pum_ahk_default\en\cpl-00000000000000.ahk
+C:\Program Files\PopUpMenu_PUM\pum_ahk_default\en\key-00000000000001.ahk
+C:\Program Files\PopUpMenu_PUM\pum_ahk_default\en\key-00000000000002.ahk
+C:\Program Files\PopUpMenu_PUM\pum_ahk_default\en\key-00000000000003.ahk
+C:\Program Files\PopUpMenu_PUM\pum_ahk_default\en\key-00000000000004.ahk
+C:\Program Files\PopUpMenu_PUM\pum_ahk_default\en\key-00000000000005.ahk
+C:\Program Files\PopUpMenu_PUM\pum_ahk_default\en\key-00000000000006.ahk
+C:\Program Files\PopUpMenu_PUM\pum_ahk_default\en\key-00000000000007.ahk
+C:\Program Files\PopUpMenu_PUM\pum_ahk_default\es\cpl-00000000000000.ahk
+C:\Program Files\PopUpMenu_PUM\pum_ahk_default\es\key-00000000000001.ahk
+C:\Program Files\PopUpMenu_PUM\pum_ahk_default\es\key-00000000000002.ahk
+C:\Program Files\PopUpMenu_PUM\pum_ahk_default\es\key-00000000000003.ahk
+C:\Program Files\PopUpMenu_PUM\pum_ahk_default\es\key-00000000000004.ahk
+C:\Program Files\PopUpMenu_PUM\pum_ahk_default\es\key-00000000000005.ahk
+C:\Program Files\PopUpMenu_PUM\pum_ahk_default\es\key-00000000000006.ahk
+C:\Program Files\PopUpMenu_PUM\pum_ahk_default\es\key-00000000000007.ahk
+C:\Program Files\PopUpMenu_PUM\pum_ahk_default\fr\cpl-00000000000000.ahk
+C:\Program Files\PopUpMenu_PUM\pum_ahk_default\fr\key-00000000000001.ahk
+C:\Program Files\PopUpMenu_PUM\pum_ahk_default\fr\key-00000000000002.ahk
+C:\Program Files\PopUpMenu_PUM\pum_ahk_default\fr\key-00000000000003.ahk
+C:\Program Files\PopUpMenu_PUM\pum_ahk_default\fr\key-00000000000004.ahk
+C:\Program Files\PopUpMenu_PUM\pum_ahk_default\fr\key-00000000000005.ahk
+C:\Program Files\PopUpMenu_PUM\pum_ahk_default\fr\key-00000000000006.ahk
+C:\Program Files\PopUpMenu_PUM\pum_ahk_default\fr\key-00000000000007.ahk
+C:\Program Files\PopUpMenu_PUM\pum_ahk_default\it\cpl-00000000000000.ahk
+C:\Program Files\PopUpMenu_PUM\pum_ahk_default\it\key-00000000000001.ahk
+C:\Program Files\PopUpMenu_PUM\pum_ahk_default\it\key-00000000000002.ahk
+C:\Program Files\PopUpMenu_PUM\pum_ahk_default\it\key-00000000000003.ahk
+C:\Program Files\PopUpMenu_PUM\pum_ahk_default\it\key-00000000000004.ahk
+C:\Program Files\PopUpMenu_PUM\pum_ahk_default\it\key-00000000000005.ahk
+C:\Program Files\PopUpMenu_PUM\pum_ahk_default\it\key-00000000000006.ahk
+C:\Program Files\PopUpMenu_PUM\pum_ahk_default\it\key-00000000000007.ahk
+C:\Program Files\PopUpMenu_PUM\pum_ahk_default\pl\cpl-00000000000000.ahk
+C:\Program Files\PopUpMenu_PUM\pum_ahk_default\pl\key-00000000000001.ahk
+C:\Program Files\PopUpMenu_PUM\pum_ahk_default\pl\key-00000000000002.ahk
+C:\Program Files\PopUpMenu_PUM\pum_ahk_default\pl\key-00000000000003.ahk
+C:\Program Files\PopUpMenu_PUM\pum_ahk_default\pl\key-00000000000004.ahk
+C:\Program Files\PopUpMenu_PUM\pum_ahk_default\pl\key-00000000000005.ahk
+C:\Program Files\PopUpMenu_PUM\pum_ahk_default\pl\key-00000000000006.ahk
+C:\Program Files\PopUpMenu_PUM\pum_ahk_default\pl\key-00000000000007.ahk
+C:\Program Files\PopUpMenu_PUM\pum_ahk_default\pt\cpl-00000000000000.ahk
+C:\Program Files\PopUpMenu_PUM\pum_ahk_default\pt\key-00000000000001.ahk
+C:\Program Files\PopUpMenu_PUM\pum_ahk_default\pt\key-00000000000002.ahk
+C:\Program Files\PopUpMenu_PUM\pum_ahk_default\pt\key-00000000000003.ahk
+C:\Program Files\PopUpMenu_PUM\pum_ahk_default\pt\key-00000000000004.ahk
+C:\Program Files\PopUpMenu_PUM\pum_ahk_default\pt\key-00000000000005.ahk
+C:\Program Files\PopUpMenu_PUM\pum_ahk_default\pt\key-00000000000006.ahk
+C:\Program Files\PopUpMenu_PUM\pum_ahk_default\pt\key-00000000000007.ahk
+C:\Program Files\PopUpMenu_PUM\pum_ahk_default\ru\cpl-00000000000000.ahk
+C:\Program Files\PopUpMenu_PUM\pum_ahk_default\ru\key-00000000000001.ahk
+C:\Program Files\PopUpMenu_PUM\pum_ahk_default\ru\key-00000000000002.ahk
+C:\Program Files\PopUpMenu_PUM\pum_ahk_default\ru\key-00000000000003.ahk
+C:\Program Files\PopUpMenu_PUM\pum_ahk_default\ru\key-00000000000004.ahk
+C:\Program Files\PopUpMenu_PUM\pum_ahk_default\ru\key-00000000000005.ahk
+C:\Program Files\PopUpMenu_PUM\pum_ahk_default\ru\key-00000000000006.ahk
+C:\Program Files\PopUpMenu_PUM\pum_ahk_default\ru\key-00000000000007.ahk
+C:\Program Files\PopUpMenu_PUM\pum_ahk_default\sv\cpl-00000000000000.ahk
+C:\Program Files\PopUpMenu_PUM\pum_ahk_default\sv\key-00000000000001.ahk
+C:\Program Files\PopUpMenu_PUM\pum_ahk_default\sv\key-00000000000002.ahk
+C:\Program Files\PopUpMenu_PUM\pum_ahk_default\sv\key-00000000000003.ahk
+C:\Program Files\PopUpMenu_PUM\pum_ahk_default\sv\key-00000000000004.ahk
+C:\Program Files\PopUpMenu_PUM\pum_ahk_default\sv\key-00000000000005.ahk
+C:\Program Files\PopUpMenu_PUM\pum_ahk_default\sv\key-00000000000006.ahk
+C:\Program Files\PopUpMenu_PUM\pum_ahk_default\sv\key-00000000000007.ahk
+C:\Program Files\PopUpMenu_PUM\pum_ahk_default\tr\cpl-0000000000000.ahk
+C:\Program Files\PopUpMenu_PUM\pum_ahk_default\tr\key-00000000000001.ahk
+C:\Program Files\PopUpMenu_PUM\pum_ahk_default\tr\key-00000000000002.ahk
+C:\Program Files\PopUpMenu_PUM\pum_ahk_default\tr\key-00000000000003.ahk
+C:\Program Files\PopUpMenu_PUM\pum_ahk_default\tr\key-00000000000004.ahk
+C:\Program Files\PopUpMenu_PUM\pum_ahk_default\tr\key-00000000000005.ahk
+C:\Program Files\PopUpMenu_PUM\pum_ahk_default\tr\key-00000000000006.ahk
+C:\Program Files\PopUpMenu_PUM\pum_ahk_default\tr\key-00000000000007.ahk
+C:\Program Files\PopUpMenu_PUM\pum_default\iconcache\(_Not_A_Empty_Folder_File_).txt
+C:\Program Files\PopUpMenu_PUM\pum_default\iconcache\C__((_Temp_))_explorer_pumiconcache_00000000000000.ico,0_(64).ico
+C:\Program Files\PopUpMenu_PUM\pum_default\iconcache\C__((_Temp_))_explorer_pumiconcache_00000000000001.ico,0_(64).ico
+C:\Program Files\PopUpMenu_PUM\pum_default\iconcache\C__((_Temp_))_explorer_pumiconcache_00000000000002.ico,0_(64).ico
+C:\Program Files\PopUpMenu_PUM\pum_default\iconcache\C__((_Temp_))_explorer_pumiconcache_00000000000003.ico,0_(64).ico
+C:\Program Files\PopUpMenu_PUM\pum_default\iconcache\C__((_Temp_))_explorer_pumiconcache_00000000000004.ico,0_(64).ico
+C:\Program Files\PopUpMenu_PUM\pum_default\iconcache\C__((_Temp_))_explorer_pumiconcache_00000000000005.ico,0_(64).ico
+C:\Program Files\PopUpMenu_PUM\pum_default\iconcache\C__((_Temp_))_explorer_pumiconcache_00000000000006.ico,0_(64).ico
+C:\Program Files\PopUpMenu_PUM\pum_default\iconcache\C__((_Temp_))_explorer_pumiconcache_00000000000007.ico,0_(64).ico
+C:\Program Files\PopUpMenu_PUM\pum_default\image\bg_Display_Img.png
+C:\Program Files\PopUpMenu_PUM\pum_default\image\bg_Selected_Fit.png
+C:\Program Files\PopUpMenu_PUM\pum_default\image\bg_Selected_Gui.png
+C:\Program Files\PopUpMenu_PUM\pum_default\image\bg_Selected_img.bmp
+C:\Program Files\PopUpMenu_PUM\pum_default\image\DisplayPumDim.png
+C:\Program Files\PopUpMenu_PUM\pum_default\image\Info_bg.txt
+C:\Program Files\PopUpMenu_PUM\pum_default\image\Temp_Display_Img.png
+C:\Program Files\PopUpMenu_PUM\pum_default\image\Temp_Selected_Fit.png
+C:\Program Files\PopUpMenu_PUM\pum_default\image\Temp_Selected_Gui.png
+C:\Program Files\PopUpMenu_PUM\pum_default\image\Temp_Selected_Img.bmp
+C:\Program Files\PopUpMenu_PUM\pum_default\pumiconcache\00000000000001.ico
+C:\Program Files\PopUpMenu_PUM\pum_default\pumiconcache\00000000000002.ico
+C:\Program Files\PopUpMenu_PUM\pum_default\pumiconcache\00000000000003.ico
+C:\Program Files\PopUpMenu_PUM\pum_default\pumiconcache\00000000000004.ico
+C:\Program Files\PopUpMenu_PUM\pum_default\pumiconcache\00000000000005.ico
+C:\Program Files\PopUpMenu_PUM\pum_default\pumiconcache\00000000000006.ico
+C:\Program Files\PopUpMenu_PUM\pum_default\pumiconcache\00000000000007.ico
+C:\Program Files\PopUpMenu_PUM\pum_default\settings\GridCheck\GridCheck.txt
+============================================
+
