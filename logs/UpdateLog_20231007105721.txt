@@ -1,0 +1,19 @@
+﻿============================================
+This Update for Program
+Changed to this Update Number 90
+October, 07, 2023 At 10:57:21 am
+============================================
+============================================
+Changed Files = 9
+============================================
+C:\Program Files\PopUpMenu_PUM\menu\cpl\menu\menu_de.txt
+C:\Program Files\PopUpMenu_PUM\menu\cpl\menu\menu_es.txt
+C:\Program Files\PopUpMenu_PUM\menu\cpl\menu\menu_fr.txt
+C:\Program Files\PopUpMenu_PUM\menu\cpl\menu\menu_it.txt
+C:\Program Files\PopUpMenu_PUM\menu\cpl\menu\menu_pl.txt
+C:\Program Files\PopUpMenu_PUM\menu\cpl\menu\menu_pt.txt
+C:\Program Files\PopUpMenu_PUM\menu\cpl\menu\menu_ru.txt
+C:\Program Files\PopUpMenu_PUM\menu\cpl\menu\menu_sv.txt
+C:\Program Files\PopUpMenu_PUM\menu\cpl\menu\menu_tr.txt
+============================================
+
