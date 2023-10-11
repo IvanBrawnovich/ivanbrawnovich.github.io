@@ -1,0 +1,12 @@
+﻿============================================
+This Update for Program
+Changed to this Update Number 91
+October, 11, 2023 At 09:17:25 am
+============================================
+============================================
+Changed Files = 2
+============================================
+C:\Program Files\PopUpMenu_PUM\Image_ChangeDPI.ahk
+C:\Program Files\PopUpMenu_PUM\Sys_DataArray.ahk
+============================================
+
