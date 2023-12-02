@@ -1,0 +1,12 @@
+﻿============================================
+This Update for Program
+Changed to this Update Number 93
+December, 02, 2023 At 6:05:44 pm
+============================================
+============================================
+Changed Files = 2
+============================================
+C:\Program Files\PopUpMenu_PUM\SysTray.ahk
+C:\Program Files\PopUpMenu_PUM\support\firewallblocker\Firewall_App_Blocker.ini
+============================================
+
