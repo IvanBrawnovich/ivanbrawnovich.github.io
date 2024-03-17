@@ -1,0 +1,18 @@
+﻿============================================
+This Update for Program
+Changed to this Update Number 94
+March, 17, 2024 At 11:30:57 am
+============================================
+============================================
+Changed Files = 8
+============================================
+C:\Program Files\PopUpMenu_PUM\MsgToFile.ahk
+C:\Program Files\PopUpMenu_PUM\SetWindowPosition.ahk
+C:\Program Files\PopUpMenu_PUM\String_Reverse.ahk
+C:\Program Files\PopUpMenu_PUM\SysConfig.ahk
+C:\Program Files\PopUpMenu_PUM\SysTray.ahk
+C:\Program Files\PopUpMenu_PUM\Url_Download.ahk
+C:\Program Files\PopUpMenu_PUM\support\firewallblocker\Firewall_App_Blocker.ini
+C:\Program Files\PopUpMenu_PUM\support\firewallblocker\Firewall_Blocker.ahk
+============================================
+
