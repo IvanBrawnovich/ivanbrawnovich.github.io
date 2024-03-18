@@ -1,0 +1,20 @@
+﻿============================================
+This Update for Program
+Changed to this Update Number 95
+March, 18, 2024 At 6:31:00 pm
+============================================
+============================================
+Changed Files = 3
+============================================
+C:\Program Files\PopUpMenu_PUM\Email_Info.ahk
+C:\Program Files\PopUpMenu_PUM\Email_Send.ahk
+C:\Program Files\PopUpMenu_PUM\support\firewallblocker\Firewall_App_Blocker.ini
+============================================
+
+============================================
+New Files = 2
+============================================
+C:\Program Files\PopUpMenu_PUM\IpLocator.ahk
+C:\Program Files\PopUpMenu_PUM\support\IP_Locator\IP_Locator.bat
+============================================
+
