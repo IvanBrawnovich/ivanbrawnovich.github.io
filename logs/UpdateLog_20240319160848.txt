@@ -1,0 +1,11 @@
+﻿============================================
+This Update for Program
+Changed to this Update Number 97
+March, 19, 2024 At 4:08:48 pm
+============================================
+============================================
+Changed Files = 1
+============================================
+C:\Program Files\PopUpMenu_PUM\support\firewallblocker\Firewall_Blocker.ahk
+============================================
+
