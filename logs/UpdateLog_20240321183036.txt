@@ -1,0 +1,20 @@
+﻿============================================
+This Update for Program
+Changed to this Update Number 98
+March, 21, 2024 At 6:30:36 pm
+============================================
+============================================
+Changed Files = 10
+============================================
+C:\Program Files\PopUpMenu_PUM\Email_Info.ahk
+C:\Program Files\PopUpMenu_PUM\Email_Send.ahk
+C:\Program Files\PopUpMenu_PUM\Image_Rebuild.ahk
+C:\Program Files\PopUpMenu_PUM\IpLocator.ahk
+C:\Program Files\PopUpMenu_PUM\PopUpMenu.ahk
+C:\Program Files\PopUpMenu_PUM\SysConfig.ahk
+C:\Program Files\PopUpMenu_PUM\SysLoad.ahk
+C:\Program Files\PopUpMenu_PUM\SysTray.ahk
+C:\Program Files\PopUpMenu_PUM\Sys_DataArray.ahk
+C:\Program Files\PopUpMenu_PUM\support\firewallblocker\Firewall_Blocker.ahk
+============================================
+
