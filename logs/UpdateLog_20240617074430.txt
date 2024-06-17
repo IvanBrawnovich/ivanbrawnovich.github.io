@@ -1,0 +1,28 @@
+﻿============================================
+This Update for Program
+Changed to this Update Number 104
+June, 17, 2024 At 07:44:30 am
+============================================
+============================================
+Changed Files = 7
+============================================
+C:\Program Files\PopUpMenu_PUM\Audio_WaitToFinish.ahk
+C:\Program Files\PopUpMenu_PUM\CloseProcess.ahk
+C:\Program Files\PopUpMenu_PUM\Email_Send.ahk
+C:\Program Files\PopUpMenu_PUM\Shortcut_Run.ahk
+C:\Program Files\PopUpMenu_PUM\SysTray.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\scrollnote\Scroll_Gui.ahk
+C:\Program Files\PopUpMenu_PUM\support\firewallblocker\Firewall_Blocker.ahk
+============================================
+
+============================================
+New Files = 6
+============================================
+C:\Program Files\PopUpMenu_PUM\support\firewallblocker\(Block Test).bat
+C:\Program Files\PopUpMenu_PUM\support\firewallblocker\CommandLineNotes.ahk
+C:\Program Files\PopUpMenu_PUM\support\firewallblocker\Commandline_Commands.url
+C:\Program Files\PopUpMenu_PUM\support\firewallblocker\Firewall_Blocker_2.ahk
+C:\Program Files\PopUpMenu_PUM\support\firewallblocker\StartFireWall.bat
+C:\Program Files\PopUpMenu_PUM\support\firewallblocker\StartFireWall.lnk
+============================================
+
