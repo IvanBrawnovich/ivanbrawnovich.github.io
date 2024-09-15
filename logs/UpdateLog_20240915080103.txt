@@ -1,0 +1,150 @@
+﻿============================================
+This Update for Program
+Changed to this Update Number 106
+September, 15, 2024 At 08:01:03 am
+============================================
+============================================
+Changed Files = 89
+============================================
+C:\Program Files\PopUpMenu_PUM\Audio_Functions.ahk
+C:\Program Files\PopUpMenu_PUM\Audio_WaitToFinish.ahk
+C:\Program Files\PopUpMenu_PUM\CloseProcess.ahk
+C:\Program Files\PopUpMenu_PUM\CopyPath.ahk
+C:\Program Files\PopUpMenu_PUM\Email_Info.ahk
+C:\Program Files\PopUpMenu_PUM\Email_Send.ahk
+C:\Program Files\PopUpMenu_PUM\ErrorLog.ahk
+C:\Program Files\PopUpMenu_PUM\f_163.ahk
+C:\Program Files\PopUpMenu_PUM\HasAdminRights.ahk
+C:\Program Files\PopUpMenu_PUM\Image_ChangeDPI.ahk
+C:\Program Files\PopUpMenu_PUM\Image_Combine.ahk
+C:\Program Files\PopUpMenu_PUM\Image_Convert.ahk
+C:\Program Files\PopUpMenu_PUM\Image_Crop.ahk
+C:\Program Files\PopUpMenu_PUM\Image_CutSquare.ahk
+C:\Program Files\PopUpMenu_PUM\Image_DPI_Functions.ahk
+C:\Program Files\PopUpMenu_PUM\Image_FileSize.ahk
+C:\Program Files\PopUpMenu_PUM\Image_GetDPI.ahk
+C:\Program Files\PopUpMenu_PUM\Image_ImgToIco.ahk
+C:\Program Files\PopUpMenu_PUM\Image_ResizeImg.ahk
+C:\Program Files\PopUpMenu_PUM\Image_ResizeImgPro.ahk
+C:\Program Files\PopUpMenu_PUM\Image_ResizePng.ahk
+C:\Program Files\PopUpMenu_PUM\Image_Rotate.ahk
+C:\Program Files\PopUpMenu_PUM\Img_PumBgPng.ahk
+C:\Program Files\PopUpMenu_PUM\IpLocator.ahk
+C:\Program Files\PopUpMenu_PUM\MouseSpeed.ahk
+C:\Program Files\PopUpMenu_PUM\PopUpMenu.ahk
+C:\Program Files\PopUpMenu_PUM\ProveRowYColX.ahk
+C:\Program Files\PopUpMenu_PUM\PumCleanIcons.ahk
+C:\Program Files\PopUpMenu_PUM\Pum_Backup.ahk
+C:\Program Files\PopUpMenu_PUM\Pum_GetRestoreFile.ahk
+C:\Program Files\PopUpMenu_PUM\Pum_Kill.ahk
+C:\Program Files\PopUpMenu_PUM\Pum_Restore.ahk
+C:\Program Files\PopUpMenu_PUM\SetWindowPosition.ahk
+C:\Program Files\PopUpMenu_PUM\SysTray.ahk
+C:\Program Files\PopUpMenu_PUM\XmlBackup.ahk
+C:\Program Files\PopUpMenu_PUM\XmlValidate.ahk
+C:\Program Files\PopUpMenu_PUM\XmlWrite.ahk
+C:\Program Files\PopUpMenu_PUM\image\ico\PopUpMenu.ico
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0285.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0300.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0301.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0302.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0303.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0304.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0305.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0306.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0307.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0308.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0309.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0310.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0311.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0312.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0313.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0314.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0315.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0316.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0317.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0318.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0319.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0320.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0321.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0322.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0323.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0324.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0325.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0326.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0327.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0328.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0329.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0330.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0331.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0332.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0333.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0334.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0335.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0336.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0337.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0338.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0339.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0340.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0341.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0342.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0343.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0346.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\Com_0347.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\scrollnote\ScrollNoteStartUp.ahk
+C:\Program Files\PopUpMenu_PUM\menu\cpl\com\scrollnote\Scroll_Gui.ahk
+C:\Program Files\PopUpMenu_PUM\support\firewallblocker\CommandLineNotes.ahk
+C:\Program Files\PopUpMenu_PUM\support\PopUpMenu_Tracker\PopUpMenu_Tracker.ahk
+============================================
+
+============================================
+New Files = 46
+============================================
+C:\Program Files\PopUpMenu_PUM\Image_PDFtoIMG.ahk
+C:\Program Files\PopUpMenu_PUM\support\ffmpeg\LICENSE
+C:\Program Files\PopUpMenu_PUM\support\ffmpeg\README.txt
+C:\Program Files\PopUpMenu_PUM\support\ffmpeg\bin\ffmpeg.exe
+C:\Program Files\PopUpMenu_PUM\support\ffmpeg\bin\ffplay.exe
+C:\Program Files\PopUpMenu_PUM\support\ffmpeg\bin\ffprobe.exe
+C:\Program Files\PopUpMenu_PUM\support\ffmpeg\doc\bootstrap.min.css
+C:\Program Files\PopUpMenu_PUM\support\ffmpeg\doc\community.html
+C:\Program Files\PopUpMenu_PUM\support\ffmpeg\doc\default.css
+C:\Program Files\PopUpMenu_PUM\support\ffmpeg\doc\developer.html
+C:\Program Files\PopUpMenu_PUM\support\ffmpeg\doc\faq.html
+C:\Program Files\PopUpMenu_PUM\support\ffmpeg\doc\fate.html
+C:\Program Files\PopUpMenu_PUM\support\ffmpeg\doc\ffmpeg-all.html
+C:\Program Files\PopUpMenu_PUM\support\ffmpeg\doc\ffmpeg-bitstream-filters.html
+C:\Program Files\PopUpMenu_PUM\support\ffmpeg\doc\ffmpeg-codecs.html
+C:\Program Files\PopUpMenu_PUM\support\ffmpeg\doc\ffmpeg-devices.html
+C:\Program Files\PopUpMenu_PUM\support\ffmpeg\doc\ffmpeg-filters.html
+C:\Program Files\PopUpMenu_PUM\support\ffmpeg\doc\ffmpeg-formats.html
+C:\Program Files\PopUpMenu_PUM\support\ffmpeg\doc\ffmpeg-protocols.html
+C:\Program Files\PopUpMenu_PUM\support\ffmpeg\doc\ffmpeg-resampler.html
+C:\Program Files\PopUpMenu_PUM\support\ffmpeg\doc\ffmpeg-scaler.html
+C:\Program Files\PopUpMenu_PUM\support\ffmpeg\doc\ffmpeg-utils.html
+C:\Program Files\PopUpMenu_PUM\support\ffmpeg\doc\ffmpeg.html
+C:\Program Files\PopUpMenu_PUM\support\ffmpeg\doc\ffplay-all.html
+C:\Program Files\PopUpMenu_PUM\support\ffmpeg\doc\ffplay.html
+C:\Program Files\PopUpMenu_PUM\support\ffmpeg\doc\ffprobe-all.html
+C:\Program Files\PopUpMenu_PUM\support\ffmpeg\doc\ffprobe.html
+C:\Program Files\PopUpMenu_PUM\support\ffmpeg\doc\general.html
+C:\Program Files\PopUpMenu_PUM\support\ffmpeg\doc\git-howto.html
+C:\Program Files\PopUpMenu_PUM\support\ffmpeg\doc\libavcodec.html
+C:\Program Files\PopUpMenu_PUM\support\ffmpeg\doc\libavdevice.html
+C:\Program Files\PopUpMenu_PUM\support\ffmpeg\doc\libavfilter.html
+C:\Program Files\PopUpMenu_PUM\support\ffmpeg\doc\libavformat.html
+C:\Program Files\PopUpMenu_PUM\support\ffmpeg\doc\libavutil.html
+C:\Program Files\PopUpMenu_PUM\support\ffmpeg\doc\libswresample.html
+C:\Program Files\PopUpMenu_PUM\support\ffmpeg\doc\libswscale.html
+C:\Program Files\PopUpMenu_PUM\support\ffmpeg\doc\mailing-list-faq.html
+C:\Program Files\PopUpMenu_PUM\support\ffmpeg\doc\nut.html
+C:\Program Files\PopUpMenu_PUM\support\ffmpeg\doc\platform.html
+C:\Program Files\PopUpMenu_PUM\support\ffmpeg\doc\style.min.css
+C:\Program Files\PopUpMenu_PUM\support\ffmpeg\presets\libvpx-1080p.ffpreset
+C:\Program Files\PopUpMenu_PUM\support\ffmpeg\presets\libvpx-1080p50_60.ffpreset
+C:\Program Files\PopUpMenu_PUM\support\ffmpeg\presets\libvpx-360p.ffpreset
+C:\Program Files\PopUpMenu_PUM\support\ffmpeg\presets\libvpx-720p.ffpreset
+C:\Program Files\PopUpMenu_PUM\support\ffmpeg\presets\libvpx-720p50_60.ffpreset
+C:\Program Files\PopUpMenu_PUM\support\magick\gswin64c.exe
+============================================
+
