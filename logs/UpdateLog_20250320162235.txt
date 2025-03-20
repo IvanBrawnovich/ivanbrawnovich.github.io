@@ -1,0 +1,16 @@
+﻿============================================
+This Update for Program
+Changed to this Update Number 112
+March, 20, 2025 At 4:22:35 pm
+============================================
+============================================
+Changed Files = 6
+============================================
+C:\Program Files\PopUpMenu_PUM\Pum_MoveShortcut.ahk
+C:\Program Files\PopUpMenu_PUM\Shortcut_Config.ahk
+C:\Program Files\PopUpMenu_PUM\SysLoad.ahk
+C:\Program Files\PopUpMenu_PUM\SysTray.ahk
+C:\Program Files\PopUpMenu_PUM\XmlValidate.ahk
+C:\Program Files\PopUpMenu_PUM\XmlWrite.ahk
+============================================
+
