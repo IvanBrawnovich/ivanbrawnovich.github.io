@@ -1,0 +1,29 @@
+﻿============================================
+This Update for Program
+Changed to this Update Number 114
+April, 09, 2025 At 11:46:48 am
+============================================
+============================================
+Changed Files = 12
+============================================
+C:\Program Files\PopUpMenu_PUM\Pum_Default.ahk
+C:\Program Files\PopUpMenu_PUM\Pum_Run.ahk
+C:\Program Files\PopUpMenu_PUM\Shortcut_Config.ahk
+C:\Program Files\PopUpMenu_PUM\Shortcut_Description.ahk
+C:\Program Files\PopUpMenu_PUM\Shortcut_LButton.ahk
+C:\Program Files\PopUpMenu_PUM\Shortcut_RButton.ahk
+C:\Program Files\PopUpMenu_PUM\SysTray.ahk
+C:\Program Files\PopUpMenu_PUM\XmlBackup.ahk
+C:\Program Files\PopUpMenu_PUM\XmlValidate.ahk
+C:\Program Files\PopUpMenu_PUM\XmlWrite.ahk
+C:\Program Files\PopUpMenu_PUM\support\firewallblocker\Firewall_Blocker.ahk
+C:\Program Files\PopUpMenu_PUM\support\firewallblocker\Firewall_Blocker_CONSTRUCT.ahk
+============================================
+
+============================================
+New Files = 2
+============================================
+C:\Program Files\PopUpMenu_PUM\FixXmlArray.ahk
+C:\Program Files\PopUpMenu_PUM\support\firewallblocker\Firewall_Blocker_OLD.ahk
+============================================
+
