@@ -1,0 +1,88 @@
+﻿============================================
+This Update for Program
+Changed to this Update Number 118
+April, 14, 2025 At 3:46:06 pm
+============================================
+============================================
+Changed Files = 5
+============================================
+C:\Program Files\PopUpMenu_PUM\Email_Send.ahk
+C:\Program Files\PopUpMenu_PUM\Hotkey_gui.ahk
+C:\Program Files\PopUpMenu_PUM\SysConfig.ahk
+C:\Program Files\PopUpMenu_PUM\SysLoad.ahk
+C:\Program Files\PopUpMenu_PUM\Uninstall.lnk
+============================================
+
+============================================
+New Files = 68
+============================================
+C:\Program Files\PopUpMenu_PUM\uninstall.ahk
+C:\Program Files\PopUpMenu_PUM\image\uninstall\Background.png
+C:\Program Files\PopUpMenu_PUM\image\uninstall\ButtonCancel.png
+C:\Program Files\PopUpMenu_PUM\image\uninstall\ButtonOk.png
+C:\Program Files\PopUpMenu_PUM\image\uninstall\NoAdmin_de.png
+C:\Program Files\PopUpMenu_PUM\image\uninstall\NoAdmin_en.png
+C:\Program Files\PopUpMenu_PUM\image\uninstall\NoAdmin_es.png
+C:\Program Files\PopUpMenu_PUM\image\uninstall\NoAdmin_fr.png
+C:\Program Files\PopUpMenu_PUM\image\uninstall\NoAdmin_it.png
+C:\Program Files\PopUpMenu_PUM\image\uninstall\NoAdmin_pl.png
+C:\Program Files\PopUpMenu_PUM\image\uninstall\NoAdmin_pt.png
+C:\Program Files\PopUpMenu_PUM\image\uninstall\NoAdmin_ru.png
+C:\Program Files\PopUpMenu_PUM\image\uninstall\NoAdmin_sv.png
+C:\Program Files\PopUpMenu_PUM\image\uninstall\NoAdmin_tr.png
+C:\Program Files\PopUpMenu_PUM\image\uninstall\TextDelete_de.png
+C:\Program Files\PopUpMenu_PUM\image\uninstall\TextDelete_en.png
+C:\Program Files\PopUpMenu_PUM\image\uninstall\TextDelete_es.png
+C:\Program Files\PopUpMenu_PUM\image\uninstall\TextDelete_fr.png
+C:\Program Files\PopUpMenu_PUM\image\uninstall\TextDelete_it.png
+C:\Program Files\PopUpMenu_PUM\image\uninstall\TextDelete_pl.png
+C:\Program Files\PopUpMenu_PUM\image\uninstall\TextDelete_pt.png
+C:\Program Files\PopUpMenu_PUM\image\uninstall\TextDelete_ru.png
+C:\Program Files\PopUpMenu_PUM\image\uninstall\TextDelete_sv.png
+C:\Program Files\PopUpMenu_PUM\image\uninstall\TextDelete_tr.png
+C:\Program Files\PopUpMenu_PUM\image\uninstall\TextDelete_XX.png
+C:\Program Files\PopUpMenu_PUM\image\uninstall\TextInfo_de.png
+C:\Program Files\PopUpMenu_PUM\image\uninstall\TextInfo_en.png
+C:\Program Files\PopUpMenu_PUM\image\uninstall\TextInfo_es.png
+C:\Program Files\PopUpMenu_PUM\image\uninstall\TextInfo_fr.png
+C:\Program Files\PopUpMenu_PUM\image\uninstall\TextInfo_it.png
+C:\Program Files\PopUpMenu_PUM\image\uninstall\TextInfo_pl.png
+C:\Program Files\PopUpMenu_PUM\image\uninstall\TextInfo_pt.png
+C:\Program Files\PopUpMenu_PUM\image\uninstall\TextInfo_ru.png
+C:\Program Files\PopUpMenu_PUM\image\uninstall\TextInfo_sv.png
+C:\Program Files\PopUpMenu_PUM\image\uninstall\TextInfo_tr.png
+C:\Program Files\PopUpMenu_PUM\image\uninstall\TextInfo_XX.png
+C:\Program Files\PopUpMenu_PUM\image\uninstall\TextKeep_de.png
+C:\Program Files\PopUpMenu_PUM\image\uninstall\TextKeep_en.png
+C:\Program Files\PopUpMenu_PUM\image\uninstall\TextKeep_es.png
+C:\Program Files\PopUpMenu_PUM\image\uninstall\TextKeep_fr.png
+C:\Program Files\PopUpMenu_PUM\image\uninstall\TextKeep_it.png
+C:\Program Files\PopUpMenu_PUM\image\uninstall\TextKeep_pl.png
+C:\Program Files\PopUpMenu_PUM\image\uninstall\TextKeep_pt.png
+C:\Program Files\PopUpMenu_PUM\image\uninstall\TextKeep_ru.png
+C:\Program Files\PopUpMenu_PUM\image\uninstall\TextKeep_sv.png
+C:\Program Files\PopUpMenu_PUM\image\uninstall\TextKeep_tr.png
+C:\Program Files\PopUpMenu_PUM\image\uninstall\TextKeep_XX.png
+C:\Program Files\PopUpMenu_PUM\image\uninstall\TextUninstall_de.png
+C:\Program Files\PopUpMenu_PUM\image\uninstall\TextUninstall_en.png
+C:\Program Files\PopUpMenu_PUM\image\uninstall\TextUninstall_es.png
+C:\Program Files\PopUpMenu_PUM\image\uninstall\TextUninstall_fr.png
+C:\Program Files\PopUpMenu_PUM\image\uninstall\TextUninstall_it.png
+C:\Program Files\PopUpMenu_PUM\image\uninstall\TextUninstall_pl.png
+C:\Program Files\PopUpMenu_PUM\image\uninstall\TextUninstall_pt.png
+C:\Program Files\PopUpMenu_PUM\image\uninstall\TextUninstall_ru.png
+C:\Program Files\PopUpMenu_PUM\image\uninstall\TextUninstall_sv.png
+C:\Program Files\PopUpMenu_PUM\image\uninstall\TextUninstall_tr.png
+C:\Program Files\PopUpMenu_PUM\image\uninstall\TextUninstall_XX.png
+C:\Program Files\PopUpMenu_PUM\image\uninstall\Uninstalling_de.png
+C:\Program Files\PopUpMenu_PUM\image\uninstall\Uninstalling_en.png
+C:\Program Files\PopUpMenu_PUM\image\uninstall\Uninstalling_es.png
+C:\Program Files\PopUpMenu_PUM\image\uninstall\Uninstalling_fr.png
+C:\Program Files\PopUpMenu_PUM\image\uninstall\Uninstalling_it.png
+C:\Program Files\PopUpMenu_PUM\image\uninstall\Uninstalling_pl.png
+C:\Program Files\PopUpMenu_PUM\image\uninstall\Uninstalling_pt.png
+C:\Program Files\PopUpMenu_PUM\image\uninstall\Uninstalling_ru.png
+C:\Program Files\PopUpMenu_PUM\image\uninstall\Uninstalling_sv.png
+C:\Program Files\PopUpMenu_PUM\image\uninstall\Uninstalling_tr.png
+============================================
+
