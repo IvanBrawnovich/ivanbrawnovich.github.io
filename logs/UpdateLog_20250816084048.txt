@@ -1,0 +1,21 @@
+﻿============================================
+This Update for Program
+Changed to this Update Number 125
+August, 16, 2025 At 08:40:48 am
+============================================
+============================================
+Changed Files = 2
+============================================
+C:\Program Files\PopUpMenu_PUM\SysTray.ahk
+C:\Program Files\PopUpMenu_PUM\SysTray.exe
+============================================
+
+============================================
+New Files = 4
+============================================
+C:\Program Files\PopUpMenu_PUM\SysTray_original.exe
+C:\Program Files\PopUpMenu_PUM\image\gui\Image_LogoPng.ico
+C:\Program Files\PopUpMenu_PUM\image\ico\SysTray.ico
+C:\Program Files\PopUpMenu_PUM\image\ico\SysTray.png
+============================================
+
