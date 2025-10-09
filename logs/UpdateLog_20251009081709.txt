@@ -1,0 +1,21 @@
+﻿============================================
+This Update for Program
+Changed to this Update Number 126
+October, 09, 2025 At 08:17:09 am
+============================================
+============================================
+Changed Files = 11
+============================================
+C:\Program Files\PopUpMenu_PUM\Email_Info.ahk
+C:\Program Files\PopUpMenu_PUM\Email_Send.ahk
+C:\Program Files\PopUpMenu_PUM\IpLocator.ahk
+C:\Program Files\PopUpMenu_PUM\Pum_Run.ahk
+C:\Program Files\PopUpMenu_PUM\Shortcut_Config.ahk
+C:\Program Files\PopUpMenu_PUM\SysTray.ahk
+C:\Program Files\PopUpMenu_PUM\SysTray.exe
+C:\Program Files\PopUpMenu_PUM\Uninstall.lnk
+C:\Program Files\PopUpMenu_PUM\XmlBackup.ahk
+C:\Program Files\PopUpMenu_PUM\XmlValidate.ahk
+C:\Program Files\PopUpMenu_PUM\XmlWrite.ahk
+============================================
+
